@@ -24,6 +24,9 @@ The project follows a structured data pipeline:
     * *How does salary correlate with location?*
     * *What is the average salary spread for Data Analysts vs. Developers?*
 
+  <img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/6a285ff2-a727-4006-84d2-c83a45b079d9" />
+  <img width="1919" height="979" alt="image" src="https://github.com/user-attachments/assets/c439be74-7dd4-4f79-aa9f-b26b13580460" />
+
 ### 🛠️ Tech Stack
 * **Language:** Python 3.10+
 * **Data Manipulation:** Pandas, NumPy
