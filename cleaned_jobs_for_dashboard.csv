@@ -1,0 +1,501 @@
+job_id,job_title,company_name,location,posted_date,salary_range,skills_required,min_salary,max_salary
+2f66b350-93ef-49e6-92aa-3d39fa78bddb,Data Engineer,"Parmer, Jain and Pall",pune,2026-01-06,₹11-18 LPA,"Snowflake, Hadoop, SQL, AWS, Python, Excel",11.0,18.0
+298315f5-0fdc-4c82-9de9-e150f7292d2b,Python Developer,Vala-Shere,mumbai,2025-12-27,₹4-9 LPA,"Spark, Machine Learning, PowerBI, Hadoop",4.0,9.0
+9d9fac61-d0fc-4cea-99b8-6cec9f2c491d,Business Analyst,"Talwar, Chowdhury and Pai",bangalore,2025-12-27,₹13-15 LPA,"Snowflake, React, Azure, Spark, SQL, PowerBI",13.0,15.0
+2bb2fe23-47b7-4278-9583-93adc507c5ab,Junior Data Analyst,Narula Inc,mumbai,2025-12-21,₹4-8 LPA,"PowerBI, SQL, Excel, Tableau, Statistics, Azure",4.0,8.0
+5c947882-0a35-4b8b-ba02-2142b2b30f69,Senior Data Analyst,"Mohanty, Hegde and Taneja",delhi,2026-01-18,₹5-12 LPA,"Azure, Excel, Snowflake, Machine Learning, Java",5.0,12.0
+3ac95fc7-3675-45da-b45d-6be37fdf74fe,Python Developer,"Khare, Lall and Ray",gurgaon,2026-01-03,₹9-18 LPA,"Java, Tableau, SQL, AWS",9.0,18.0
+1fe4adb1-127c-46b8-8372-76c126f6b553,Business Analyst,Kara Inc,bangalore,2026-01-10,₹4-13 LPA,"PowerBI, Hadoop, Statistics, Python",4.0,13.0
+2804be14-0e4a-49ae-8819-2888d56feda6,Data Analyst,Bhatia PLC,bangalore,2025-12-24,₹15-17 LPA,"Tableau, Snowflake, Azure",15.0,17.0
+d0233c53-49b2-46de-910e-4d734b24b742,Business Analyst,Kohli Inc,bangalore,2025-12-23,Not Disclosed,"Snowflake, Hadoop, Azure, PowerBI, Excel, Statistics",,
+098f2d37-ff28-42c1-b8db-eda9e4130eb4,Senior Data Analyst,Chadha-Babu,noida,2026-01-01,₹7-11 LPA,"Azure, Statistics, Python, Spark",7.0,11.0
+ba4ec4c1-f4fd-4185-9b76-b70df3b46c5d,Data Scientist,"Rai, Bala and Singh",remote,2026-01-02,₹3-12 LPA,"Machine Learning, Spark, Hadoop",3.0,12.0
+f6023a9f-34e4-4ffd-87d2-cb4d1ba7154e,Python Developer,Kata and Sons,delhi,2026-01-02,₹6-15 LPA,"Excel, SQL, AWS",6.0,15.0
+74ae19c9-a4a4-42a5-b565-3ba1c172c6b1,Junior Data Analyst,Mand-Roy,bangalore,2025-12-22,₹3-6 LPA,"Machine Learning, SQL, Excel, Java, Hadoop, Tableau",3.0,6.0
+baad7076-917a-4655-bb40-bd141795f65a,Machine Learning Engineer,Lad-Bhagat,gurgaon,2026-01-19,Not Disclosed,"Statistics, Python, Tableau, Excel, Azure, Snowflake",,
+74178c09-f079-45f3-aedd-7e5c13e25a69,Machine Learning Engineer,Dhar-Mangal,mumbai,2026-01-01,₹12-21 LPA,"Machine Learning, React, Java, PowerBI, Excel, AWS",12.0,21.0
+e4baf465-b40f-4929-b494-8c31427f3e81,Data Scientist,Ramesh-Vaidya,chennai,2025-12-25,Not Disclosed,"React, Snowflake, Python, Hadoop, Azure, Tableau",,
+704ef310-b80b-47d6-9211-f02ca957c914,Machine Learning Engineer,Hayer-Hora,gurgaon,2026-01-02,₹14-24 LPA,"Excel, Java, Snowflake, Tableau",14.0,24.0
+7f15dd2f-ecc5-4a15-b0a5-3749f68d8f2a,Data Scientist,Ranganathan PLC,chennai,2026-01-08,₹6-14 LPA,"Statistics, Snowflake, SQL",6.0,14.0
+16b50afc-d9d3-4c3e-aa2e-fac67a4c2bac,Data Scientist,Bhakta-Narain,bangalore,2025-12-23,₹13-21 LPA,"Excel, Python, Hadoop, Azure, PowerBI, Snowflake",13.0,21.0
+f815c9b5-3ed6-405c-9f3a-7fb7a55d9912,Machine Learning Engineer,"Walia, Raghavan and Garg",hyderabad,2025-12-31,₹7-12 LPA,"Java, Tableau, Python",7.0,12.0
+d63c2b0b-44f3-45b9-aa51-a9e00eb4f82d,Junior Data Analyst,"Pandit, Lall and Konda",mumbai,2025-12-28,₹3-6 LPA,"Azure, Spark, Hadoop, SQL",3.0,6.0
+197330e3-ce42-40ca-aee3-9a1341196654,Data Engineer,Sangha-Bava,bangalore,2025-12-30,₹11-13 LPA,"React, Tableau, Spark, Hadoop, AWS",11.0,13.0
+dda87188-cabd-49b3-a2b9-cedd35ad8c87,Business Analyst,"Mitra, Wali and Chokshi",bangalore,2026-01-19,Not Disclosed,"Statistics, React, Tableau, Azure, Python, Spark",,
+ef54aea0-cbdc-4bb7-85a7-5bcc6c428997,Python Developer,"Ramakrishnan, Sood and Sura",noida,2026-01-03,₹12-14 LPA,"Statistics, Excel, Hadoop, Machine Learning, Snowflake, Python",12.0,14.0
+b2092bf6-5630-43fc-aea2-436136084839,Business Analyst,"Hayre, Sagar and Mani",hyderabad,2026-01-04,₹8-17 LPA,"Spark, Snowflake, React, Hadoop, Java, Tableau",8.0,17.0
+1abdd359-ceb3-48a8-a5fb-8f10d282fabd,Machine Learning Engineer,"Kunda, Rana and Buch",chennai,2026-01-06,₹10-16 LPA,"React, Azure, Machine Learning",10.0,16.0
+dd868b77-7c7b-49d9-9c49-a3903fb2dc76,Python Developer,Sharaf Group,gurgaon,2026-01-17,₹15-24 LPA,"Spark, Azure, AWS, PowerBI",15.0,24.0
+7d03ecbc-a060-4116-8519-8bc244f9f1f6,Python Developer,Bobal-Mand,delhi,2025-12-27,₹7-11 LPA,"SQL, Java, Azure, AWS, PowerBI",7.0,11.0
+8f30f104-d16b-4652-8227-d2b49ebd8d04,Python Developer,Rai-Rai,bangalore,2026-01-08,₹4-8 LPA,"SQL, Azure, Statistics",4.0,8.0
+ec7bed39-d480-493a-8095-d5d73645e519,Machine Learning Engineer,"Pai, Biswas and Aggarwal",gurgaon,2026-01-11,₹8-17 LPA,"Excel, Azure, Java, Spark",8.0,17.0
+929e38ca-79c4-44bd-9a4c-394a63563b1b,Senior Data Analyst,"Pai, Kannan and Narayan",mumbai,2026-01-13,₹3-13 LPA,"Excel, Python, Spark",3.0,13.0
+062205a7-9053-4f49-9f44-8748a225e557,Junior Data Analyst,Sami LLC,noida,2025-12-31,₹13-23 LPA,"React, Excel, Machine Learning, Snowflake",13.0,23.0
+587eade0-d74e-4b79-9e0b-0382fde15439,Data Engineer,Seth-Palla,pune,2026-01-10,₹10-18 LPA,"Tableau, Java, AWS",10.0,18.0
+b373c491-b206-4b5a-ba0a-5378a47069ee,Data Engineer,Thakkar-Garg,mumbai,2026-01-18,₹14-24 LPA,"Java, PowerBI, Hadoop, Excel",14.0,24.0
+94b74667-8ba7-403f-8044-159836bf3d0d,Data Scientist,"Patla, Taneja and Chahal",delhi,2025-12-26,₹8-16 LPA,"AWS, Azure, Tableau",8.0,16.0
+9e8681c2-12f3-46a3-bd1b-ee01e9c4d11f,Data Engineer,Majumdar-Swamy,delhi,2026-01-15,₹9-17 LPA,"Statistics, Snowflake, Spark, Excel, AWS",9.0,17.0
+ba1b91fa-8d19-41a4-961e-bcfe419cbfe8,Junior Data Analyst,"Choudhry, Trivedi and Dasgupta",pune,2026-01-05,₹8-11 LPA,"Hadoop, React, Python",8.0,11.0
+9ff5b316-937d-41d5-9201-3dd055171957,Machine Learning Engineer,"Bhandari, Saraf and Chanda",noida,2026-01-16,₹5-7 LPA,"Java, Machine Learning, Azure, PowerBI, Hadoop, AWS",5.0,7.0
+f9e782db-cb05-4709-8fd9-8483a62142d0,Data Analyst,Chatterjee-Dutta,gurgaon,2026-01-03,₹11-19 LPA,"Machine Learning, SQL, Snowflake, Spark, PowerBI, Statistics",11.0,19.0
+8d81513b-5985-4406-9c38-45335f62e5c4,Data Analyst,"Upadhyay, Deshmukh and Choudhry",hyderabad,2026-01-17,Not Disclosed,"Azure, SQL, Statistics",,
+c491abcf-a414-494c-a836-e4bfc9a33b64,Junior Data Analyst,"Lata, Dayal and Hora",hyderabad,2026-01-08,₹10-19 LPA,"Statistics, Snowflake, Hadoop, AWS, PowerBI",10.0,19.0
+c72fd0c7-ec0c-4b8f-a9f5-fb60613e61f8,Business Analyst,"Keer, Jaggi and Shan",bangalore,2026-01-19,₹13-23 LPA,"React, Java, Azure, Hadoop",13.0,23.0
+64d32ffb-3eb3-4f2b-87b9-6f952edff05c,Data Engineer,Palla-Saini,delhi,2025-12-30,Not Disclosed,"Azure, Java, Tableau, Snowflake",,
+72f48a91-3e59-4790-b1ed-6315820e49e5,Machine Learning Engineer,Shankar and Sons,bangalore,2026-01-18,₹8-13 LPA,"Java, Hadoop, AWS, Machine Learning",8.0,13.0
+a3b96501-ed39-40ce-96ed-cca345e0da49,Data Scientist,"Mangat, Nagy and Aurora",pune,2025-12-26,₹7-9 LPA,"React, AWS, Snowflake, Machine Learning",7.0,9.0
+63d592bd-130f-47df-9387-e96dc3bce8c1,Data Scientist,"Bajaj, Rama and Dutt",mumbai,2026-01-05,Not Disclosed,"PowerBI, Statistics, Python, Spark, Azure",,
+e0b31c94-8abf-4f5d-bfd7-4d0b3dba3eb6,Senior Data Analyst,Johal-De,bangalore,2026-01-16,₹13-20 LPA,"Machine Learning, PowerBI, React, Spark, Tableau",13.0,20.0
+2cce3863-d20e-4376-905f-d8c084f6ab70,Data Analyst,Subramaniam-Goda,hyderabad,2025-12-31,₹8-14 LPA,"AWS, React, Statistics",8.0,14.0
+3b6e9235-608b-448e-8244-dd5136f81585,Business Analyst,"Gade, Grewal and Kunda",bangalore,2026-01-16,₹14-22 LPA,"Excel, Snowflake, Statistics, Machine Learning",14.0,22.0
+c4eb558e-6ee0-4d7d-a265-41cd672beffb,Data Analyst,"Roy, Dutta and Puri",chennai,2026-01-19,Not Disclosed,"PowerBI, Hadoop, Statistics",,
+b3adec08-400f-42dd-bc97-389af8c1d559,Data Scientist,Sampath LLC,bangalore,2026-01-08,₹14-19 LPA,"Statistics, Python, Hadoop, AWS, React, Machine Learning",14.0,19.0
+99d71348-8a7a-47c6-b989-8219f1f2bc82,Data Scientist,Divan PLC,pune,2026-01-08,₹13-18 LPA,"Tableau, Excel, Spark, Hadoop",13.0,18.0
+8efac639-cf29-4770-8c60-418e286428de,Junior Data Analyst,Bakshi-Sen,gurgaon,2025-12-22,Not Disclosed,"Tableau, Python, Snowflake",,
+707ec7ba-7f03-47d7-817f-9c453d559e55,Business Analyst,"Merchant, Chatterjee and Kanda",remote,2026-01-15,₹5-10 LPA,"Statistics, React, Snowflake, AWS, Spark",5.0,10.0
+ac93e910-8a02-4034-abee-eca37dcbb3e4,Data Engineer,"Mahal, Sunder and Sawhney",remote,2026-01-10,₹13-18 LPA,"Statistics, Java, Python, Excel",13.0,18.0
+86ecc1b3-10ac-4745-8c86-0c6f4d70e70d,Senior Data Analyst,Mangal LLC,gurgaon,2026-01-05,₹6-14 LPA,"Tableau, AWS, Statistics, Java, PowerBI",6.0,14.0
+cb2cfd0c-5336-46ac-833c-8fffb71601ec,Business Analyst,Vora-Loke,bangalore,2025-12-22,₹6-15 LPA,"Python, Azure, PowerBI, Spark, AWS",6.0,15.0
+49d7ba51-09ab-4332-aae8-7317a920e90f,Data Engineer,Dhingra-Bath,pune,2026-01-03,₹8-13 LPA,"Spark, Machine Learning, Java, PowerBI, Hadoop, Snowflake",8.0,13.0
+b7a5877c-93bb-46e0-9560-f7103923b178,Data Scientist,Kannan Inc,delhi,2025-12-24,₹15-19 LPA,"Statistics, React, PowerBI, SQL, Machine Learning, Snowflake",15.0,19.0
+641f3716-fa79-4a6a-8d6a-287c743347bf,Data Engineer,Shere and Sons,pune,2025-12-26,Not Disclosed,"Machine Learning, Java, Excel, Hadoop, Azure",,
+1c17936d-7e3e-436b-bf12-68a2b5a7431d,Data Engineer,Dalal-Chakrabarti,pune,2026-01-04,₹6-10 LPA,"Excel, Java, SQL, Python",6.0,10.0
+84885b80-ac20-473d-aa37-18f873080e5d,Data Engineer,"Trivedi, Venkataraman and Kurian",remote,2026-01-16,₹7-12 LPA,"Statistics, Hadoop, Tableau, AWS, Snowflake, PowerBI",7.0,12.0
+9bc399cd-a770-4a6d-bf3c-978b8a89cf1f,Python Developer,Tak-Mukhopadhyay,delhi,2025-12-31,₹14-17 LPA,"Hadoop, AWS, Machine Learning",14.0,17.0
+9e5e7d5c-6d1f-4145-a386-9fc9a2516f2c,Data Engineer,Patel LLC,delhi,2026-01-14,₹9-14 LPA,"SQL, Excel, AWS, Java, Statistics",9.0,14.0
+7c99b092-078a-48ed-9a24-0b78e7a394aa,Senior Data Analyst,Thaman and Sons,chennai,2025-12-25,₹12-18 LPA,"AWS, React, PowerBI, Snowflake, Tableau, Python",12.0,18.0
+6c8470c0-24e3-48db-92da-8701bd37818c,Senior Data Analyst,Kulkarni Ltd,bangalore,2026-01-11,₹10-17 LPA,"AWS, Snowflake, React, Azure",10.0,17.0
+5a42e8bd-ef82-4a3a-afab-9923f648dd15,Junior Data Analyst,Dua-Bava,bangalore,2026-01-14,₹6-8 LPA,"Machine Learning, Java, Python, Spark",6.0,8.0
+10d01ada-dda1-496f-a0ee-574c4255cbb9,Junior Data Analyst,"Mannan, Pillai and Chand",hyderabad,2026-01-08,₹14-17 LPA,"Spark, Snowflake, AWS, SQL, Excel, Java",14.0,17.0
+24896c24-5982-4a36-928f-05e387972374,Business Analyst,Raghavan Ltd,pune,2025-12-25,₹11-19 LPA,"Spark, AWS, Tableau, Python",11.0,19.0
+b6fb30e6-edb7-40bc-9d89-6534faf8b62c,Data Scientist,Gala-Varma,remote,2025-12-27,₹7-9 LPA,"Azure, Snowflake, AWS, React, Spark",7.0,9.0
+b7c502bb-5cf3-4dc4-a329-8f2ca571532f,Senior Data Analyst,"Sethi, Ratta and Balasubramanian",noida,2025-12-27,₹15-20 LPA,"Java, AWS, React",15.0,20.0
+e8b433cb-6020-4825-9416-ee1bf69234b1,Data Engineer,"Pal, Bhatia and Sahni",chennai,2025-12-23,₹3-5 LPA,"Python, SQL, Excel, Machine Learning, React, AWS",3.0,5.0
+80ba1128-2afe-4a23-ac55-9bc359059014,Business Analyst,Rai PLC,chennai,2026-01-04,₹4-6 LPA,"Excel, Java, Azure, Tableau, PowerBI",4.0,6.0
+1fe49be7-d2d7-4bf7-b91f-261bba137762,Data Engineer,Chaudry Inc,bangalore,2026-01-06,₹4-13 LPA,"Java, PowerBI, Statistics, AWS, Machine Learning, Python",4.0,13.0
+d26832e2-6925-4af2-bc7d-5bad78c03521,Data Analyst,"Wali, Devan and Hans",gurgaon,2025-12-23,₹4-11 LPA,"Statistics, React, Snowflake, AWS",4.0,11.0
+5c2bf165-b237-47ab-a14d-20215045a0b3,Junior Data Analyst,Virk-Hari,bangalore,2026-01-15,₹8-14 LPA,"Spark, AWS, Python, PowerBI",8.0,14.0
+dec946b7-bce2-4a9a-8338-9dc78f9da811,Data Scientist,"Mistry, Ray and Swaminathan",noida,2025-12-24,₹8-13 LPA,"Excel, Java, Hadoop, Spark",8.0,13.0
+49ce81d3-39fb-47d3-89c0-37ad5a77e09a,Data Engineer,Parekh and Sons,mumbai,2026-01-14,₹12-20 LPA,"PowerBI, Hadoop, SQL, Spark, Tableau, Snowflake",12.0,20.0
+fc0c04eb-b2b8-49bc-ba3f-d9e4de565757,Senior Data Analyst,Varghese Group,mumbai,2025-12-26,₹12-16 LPA,"Python, Excel, Spark, SQL, PowerBI",12.0,16.0
+dea49c48-3dd2-482b-975a-0ba2b5d5437a,Data Engineer,"Nanda, Ganesh and Lall",chennai,2026-01-13,₹5-12 LPA,"SQL, Python, AWS",5.0,12.0
+7edb88af-215d-457e-919c-394b6cf6ab00,Data Analyst,"Kapur, Krishnamurthy and Atwal",gurgaon,2026-01-11,₹14-19 LPA,"AWS, Azure, SQL, Hadoop",14.0,19.0
+48399eeb-ceed-42d0-8076-32c1c8fe8600,Business Analyst,"Sidhu, Mukherjee and Pillay",pune,2026-01-03,₹11-20 LPA,"Statistics, Hadoop, Python, Spark",11.0,20.0
+f9560c87-e45f-4097-9252-f54037b4ec7b,Python Developer,Anne PLC,delhi,2026-01-02,₹9-17 LPA,"PowerBI, Machine Learning, Java, Tableau",9.0,17.0
+d3ae46e4-c7d8-49b8-badd-37b0e80d8e82,Business Analyst,"Yogi, Mitra and Sen",hyderabad,2025-12-24,₹9-19 LPA,"AWS, Python, Spark",9.0,19.0
+c50d3745-2042-42b3-b354-d5a3c9ece63e,Junior Data Analyst,Dani-Deshmukh,remote,2025-12-21,₹7-9 LPA,"React, Statistics, Java, Azure",7.0,9.0
+3eb4a059-8da8-4180-b801-02c1b613747f,Junior Data Analyst,Gupta Ltd,gurgaon,2026-01-12,₹9-14 LPA,"AWS, Snowflake, Spark",9.0,14.0
+78427e60-9cd0-469b-9bbd-a6d6ca447a2e,Business Analyst,Majumdar-Mishra,pune,2025-12-29,₹4-10 LPA,"Spark, Python, Excel, Hadoop, Tableau, Azure",4.0,10.0
+7833a37a-68af-425f-88d1-40d97f55fbd2,Python Developer,Aggarwal and Sons,gurgaon,2025-12-25,₹10-13 LPA,"Hadoop, Statistics, Azure",10.0,13.0
+eb0c53db-57b6-4a2c-99a1-4bc3b1bc137f,Senior Data Analyst,Dave Group,mumbai,2026-01-01,₹11-21 LPA,"Azure, Python, React, Spark, SQL, Machine Learning",11.0,21.0
+c17b793f-9ad6-4d2d-97ab-341b61be986a,Python Developer,"Banik, Nazareth and Khosla",chennai,2026-01-14,₹15-24 LPA,"Statistics, SQL, Tableau, Machine Learning",15.0,24.0
+92d88488-57de-4e77-ba7b-c2939be4d184,Business Analyst,"Handa, Jani and Issac",hyderabad,2026-01-01,₹12-17 LPA,"Tableau, Python, Excel, Spark, Azure, AWS",12.0,17.0
+ae47d05a-c81a-41b1-8fd1-2876b9b59650,Machine Learning Engineer,"Bir, Bandi and Dora",bangalore,2025-12-21,Not Disclosed,"Statistics, Hadoop, Python, Excel",,
+dc4c1f46-28be-4f03-b4cf-ef3a1237ec4e,Business Analyst,"Shukla, Wable and Kanda",remote,2026-01-01,₹12-16 LPA,"Hadoop, Excel, AWS, Azure",12.0,16.0
+b6447574-5b6a-4fc9-ad01-5a069f771e4e,Business Analyst,Mital Ltd,bangalore,2026-01-05,₹4-14 LPA,"Java, SQL, React",4.0,14.0
+8cb36370-b528-4385-adad-1f217977fb08,Business Analyst,"Rajan, Virk and Parekh",bangalore,2026-01-09,₹14-22 LPA,"Spark, Hadoop, Java",14.0,22.0
+9fa41b4b-1671-4359-ba42-1e72eae3c53c,Data Analyst,Shukla PLC,chennai,2026-01-11,₹6-10 LPA,"Java, Machine Learning, React",6.0,10.0
+4d7b7a0c-ebfb-4114-af70-98d393794881,Python Developer,Pandey Ltd,bangalore,2025-12-29,₹12-16 LPA,"Snowflake, AWS, PowerBI",12.0,16.0
+e54dbafc-66f5-4caf-9d66-8b12c60a160f,Python Developer,Konda Group,gurgaon,2025-12-31,₹11-17 LPA,"Python, AWS, Java",11.0,17.0
+d3342734-054a-4ef4-8e2c-5588c352b99e,Data Scientist,Raj-Raval,delhi,2025-12-21,₹4-11 LPA,"Machine Learning, Hadoop, Java",4.0,11.0
+0aecf427-869c-4a30-86e3-5b0a7b96a31c,Business Analyst,Parmer-Magar,bangalore,2025-12-25,₹3-9 LPA,"Spark, Snowflake, React, Hadoop",3.0,9.0
+352cf7ec-7121-4962-9c18-7263501f3598,Machine Learning Engineer,Sachdeva-Deshmukh,remote,2026-01-10,₹13-17 LPA,"PowerBI, Python, Tableau, Spark, Machine Learning",13.0,17.0
+bb83ac57-2aba-4e82-ae3c-7b5ec9738605,Business Analyst,Ram Inc,noida,2026-01-01,₹4-10 LPA,"React, Spark, Tableau",4.0,10.0
+237fda0d-3b57-421a-9d4d-dffed1eff59a,Business Analyst,Lall LLC,remote,2025-12-30,₹7-13 LPA,"Hadoop, Snowflake, AWS",7.0,13.0
+56cea57f-2b27-405a-977a-cec4a39f6e01,Data Analyst,"Goswami, Raja and Butala",hyderabad,2026-01-07,₹10-20 LPA,"Tableau, Excel, Python",10.0,20.0
+079c2f1f-8f1f-4f68-8ed8-a60a303e962e,Junior Data Analyst,Shroff-Khurana,mumbai,2025-12-28,₹15-20 LPA,"SQL, PowerBI, Excel, Spark, Java, Tableau",15.0,20.0
+7b1621eb-299c-48bc-83bf-c68e25f1c57d,Data Analyst,Lad PLC,mumbai,2026-01-16,₹15-22 LPA,"Python, Machine Learning, SQL, Java",15.0,22.0
+f9d71c3d-b264-46b1-88e2-d6f49aab0579,Python Developer,Butala Group,hyderabad,2025-12-31,₹5-15 LPA,"React, Azure, Python",5.0,15.0
+ac985ab5-9fe2-4d56-8c8b-4400384ff7b6,Data Analyst,"Vasa, Chhabra and Hayer",chennai,2026-01-19,Not Disclosed,"Azure, Excel, Spark",,
+84a7c87a-a385-4535-8f8b-e134faacad07,Python Developer,Chhabra Group,remote,2026-01-08,₹13-21 LPA,"Statistics, AWS, Azure, Java, Excel",13.0,21.0
+6a3ea2f8-aa3b-4273-862f-cf25ff69ab3b,Python Developer,Bajaj-Gaba,noida,2026-01-14,₹12-22 LPA,"Java, Python, AWS",12.0,22.0
+6a1ca464-5fb6-4968-a51b-b49cd579a345,Data Scientist,"Gill, Mahajan and Raju",chennai,2026-01-15,₹6-12 LPA,"Azure, Tableau, Excel",6.0,12.0
+4b6b299e-273d-4d2c-9e76-5357c3f69d22,Data Engineer,Lad-Virk,bangalore,2026-01-18,₹7-12 LPA,"Azure, Python, PowerBI",7.0,12.0
+2f08db3c-33af-43d2-a5f8-e92ed57cc71d,Python Developer,"Sami, Goda and Borah",noida,2026-01-07,₹12-15 LPA,"Spark, React, Hadoop, Tableau, AWS, Azure",12.0,15.0
+d5af4e0b-cb42-4c55-a306-44f40df72ddc,Data Scientist,Swamy-Balakrishnan,remote,2025-12-28,₹4-11 LPA,"Excel, AWS, Azure",4.0,11.0
+ca10279e-98fd-43ba-947e-363d9fe0a3c9,Business Analyst,Saini Group,bangalore,2026-01-11,₹7-16 LPA,"AWS, Hadoop, Azure",7.0,16.0
+f208a531-01a7-49fd-a6a5-2ef182443301,Business Analyst,Sura PLC,chennai,2026-01-15,₹7-14 LPA,"Java, React, AWS, Azure, Machine Learning",7.0,14.0
+9253fcc6-edc1-4407-acf1-fd086f287998,Junior Data Analyst,"Chaudry, Batra and Dyal",pune,2026-01-19,₹5-13 LPA,"Java, Azure, Statistics, Machine Learning, AWS",5.0,13.0
+8f53d7b8-1e6d-49f5-9898-3efeb2dfd563,Business Analyst,Bhavsar and Sons,hyderabad,2025-12-22,₹13-15 LPA,"Azure, Java, React",13.0,15.0
+78e3ab81-ea76-4ec3-87f8-47253401268f,Data Engineer,Karnik Inc,chennai,2026-01-17,₹8-12 LPA,"Excel, Azure, Python, Spark, PowerBI, SQL",8.0,12.0
+92029d8e-5564-40fe-bca3-deb841fe89a3,Machine Learning Engineer,"Chowdhury, Cheema and Divan",bangalore,2025-12-22,Not Disclosed,"Spark, Java, SQL",,
+6553a4d8-3141-463e-9e17-770c4905c2f3,Junior Data Analyst,"Chaudhry, Saini and Ram",noida,2025-12-25,₹12-20 LPA,"React, Azure, AWS, Python, Excel, PowerBI",12.0,20.0
+53d49b3f-be5c-425c-8d33-35803cd4e886,Data Analyst,Balasubramanian-Kibe,hyderabad,2025-12-26,₹11-17 LPA,"React, Snowflake, Tableau, SQL, Java, Hadoop",11.0,17.0
+ae5c4550-305e-45d2-8da6-8c67d89558c8,Data Engineer,"Rajagopalan, Gill and Sarraf",pune,2026-01-13,₹5-15 LPA,"Statistics, React, Python, Excel, AWS, Spark",5.0,15.0
+b569ed94-0c8b-4a13-a628-6ffdebefa819,Senior Data Analyst,Dube PLC,gurgaon,2025-12-21,₹8-12 LPA,"Python, Machine Learning, Snowflake, AWS, Excel, Tableau",8.0,12.0
+3445bc2d-faa7-4a70-9b1f-eb393e3ea37f,Data Analyst,"Bava, Ahuja and Bahri",noida,2025-12-26,₹10-17 LPA,"Tableau, Python, React, Hadoop, Azure, Statistics",10.0,17.0
+3b3af13f-81a8-47b4-927a-09bd85d761bb,Business Analyst,Handa LLC,mumbai,2026-01-09,₹13-18 LPA,"Statistics, Python, Tableau, Snowflake",13.0,18.0
+604bbe4e-e31c-4cd1-ad0e-99fdc7872863,Machine Learning Engineer,"Dixit, Buch and Palan",hyderabad,2026-01-16,₹4-11 LPA,"Statistics, AWS, Hadoop, Tableau, Azure",4.0,11.0
+67456c30-0aff-4a09-8423-726b184c98f3,Data Engineer,"Dhawan, Nagi and Dugal",pune,2026-01-05,₹4-14 LPA,"Spark, Excel, Snowflake, AWS, Machine Learning, SQL",4.0,14.0
+607a6332-1fc3-418a-a317-b3102346ee33,Senior Data Analyst,Sant-Korpal,mumbai,2026-01-14,₹15-20 LPA,"Excel, Azure, Statistics, Python, AWS",15.0,20.0
+bd4267ec-33cc-4839-b4ae-3e5905b640e2,Business Analyst,"Khosla, Dar and Borra",delhi,2025-12-30,₹9-12 LPA,"Java, Excel, React",9.0,12.0
+08ca784c-d8ec-4e67-9cf2-3e673b21b98f,Python Developer,Dasgupta-Dani,mumbai,2025-12-21,₹12-16 LPA,"Snowflake, Tableau, PowerBI, Excel, SQL",12.0,16.0
+0b6745f2-dab4-4142-a7c5-563731440429,Data Engineer,Mane-Batta,hyderabad,2025-12-21,₹8-18 LPA,"Azure, Java, Excel, Snowflake, Statistics",8.0,18.0
+c562f58e-1e3f-4d4f-855c-f62a1d1d6543,Machine Learning Engineer,Sankar Group,bangalore,2026-01-09,₹6-13 LPA,"SQL, Excel, Snowflake, Tableau",6.0,13.0
+a428585a-c3c0-4208-9a7c-c8d02d45c9b2,Machine Learning Engineer,"Dora, Grover and Raj",hyderabad,2026-01-11,Not Disclosed,"PowerBI, Python, Tableau, Excel, Spark, Java",,
+1358c6ff-b24d-49dd-a122-6f298e91cb82,Data Engineer,"Biswas, Rattan and Deshpande",mumbai,2026-01-04,Not Disclosed,"Tableau, Snowflake, PowerBI, Python",,
+0ec94c1d-2c9d-47d9-854f-3ee7f21e67a7,Data Engineer,"Karpe, Bhardwaj and Sani",bangalore,2026-01-17,₹3-8 LPA,"Statistics, React, Snowflake, Python, AWS",3.0,8.0
+94c82532-9242-4d61-9732-fdcfa9ebfdc1,Senior Data Analyst,"Dutta, Rajagopal and Toor",remote,2026-01-12,Not Disclosed,"Excel, Python, Snowflake, Hadoop, Machine Learning",,
+4ad52c93-e1ca-4144-94fa-a8d4002971f8,Machine Learning Engineer,"Srivastava, Kannan and Nagar",delhi,2025-12-29,₹11-20 LPA,"Spark, Tableau, Snowflake",11.0,20.0
+b3c45bc9-0957-4eb4-9114-1c843132586b,Data Analyst,Kapur-Rajan,chennai,2026-01-11,₹6-14 LPA,"Statistics, Tableau, PowerBI, Hadoop, Snowflake, Python",6.0,14.0
+743a8146-6724-494f-8ac5-6f2d2db72238,Data Scientist,"Bora, Ganesh and Dube",bangalore,2026-01-10,₹8-18 LPA,"React, Statistics, Java",8.0,18.0
+8aecad31-49d5-414a-8c19-591eebb908df,Senior Data Analyst,Dewan-Ghosh,remote,2026-01-04,₹9-17 LPA,"Excel, Java, Python, SQL",9.0,17.0
+238d7f55-7c4a-4bd3-af2c-abb5de721409,Senior Data Analyst,"Doctor, Misra and Desai",noida,2026-01-03,₹4-6 LPA,"Spark, Python, AWS, Tableau, SQL",4.0,6.0
+39a32318-c2dd-4683-b9ca-75fa32bc7681,Machine Learning Engineer,"Dubey, Nair and Sathe",bangalore,2026-01-05,₹14-16 LPA,"AWS, React, Azure, Tableau, Python, Snowflake",14.0,16.0
+fa2fd354-fbd2-48d7-989f-bb23f3fde520,Data Scientist,"Kade, Chaudhari and Warrior",hyderabad,2025-12-27,₹13-21 LPA,"Hadoop, Machine Learning, Java",13.0,21.0
+d4958972-4d7d-4832-9571-4766af2bdeb4,Junior Data Analyst,Kari-Chatterjee,mumbai,2026-01-04,₹10-18 LPA,"PowerBI, Snowflake, Hadoop, AWS, Excel, Tableau",10.0,18.0
+8eaa61f9-ee44-4749-b594-b451a5215047,Machine Learning Engineer,Srinivasan and Sons,bangalore,2026-01-18,₹4-14 LPA,"Java, Excel, SQL, Spark, Tableau",4.0,14.0
+323dbcc8-beed-4e7b-90da-c4b8381cd120,Machine Learning Engineer,Dhillon LLC,hyderabad,2026-01-12,₹10-18 LPA,"React, Excel, Java, SQL",10.0,18.0
+3e087cc0-569b-4aa8-980c-2f7d7db0a75f,Junior Data Analyst,Sha LLC,mumbai,2025-12-31,₹15-20 LPA,"PowerBI, Azure, React, AWS, Snowflake",15.0,20.0
+6d94bc84-fcef-4877-b24f-18d3cb883657,Data Engineer,Ray Group,noida,2026-01-16,Not Disclosed,"React, Java, Tableau, Hadoop, SQL, Excel",,
+2c753a90-cf10-49ff-a255-f1d0df0631d8,Senior Data Analyst,"Padmanabhan, Nair and Sinha",remote,2026-01-17,₹8-13 LPA,"Statistics, Excel, Tableau",8.0,13.0
+d123c254-7b88-4c29-98d6-0cc5a33ca1cd,Data Scientist,Sahni-Nair,pune,2026-01-10,₹11-16 LPA,"Azure, PowerBI, Tableau, Machine Learning, Python",11.0,16.0
+da386736-7496-40aa-9b2f-a0a64aca520f,Data Scientist,"Chhabra, Bains and Parekh",remote,2025-12-28,₹12-19 LPA,"PowerBI, Tableau, Snowflake, Hadoop, AWS, Excel",12.0,19.0
+f68f93d1-aa4e-4fa0-aec5-b6f16810baaa,Machine Learning Engineer,"Dixit, Bajwa and Chada",mumbai,2026-01-15,₹12-21 LPA,"Machine Learning, Azure, Hadoop, Python, Statistics, Snowflake",12.0,21.0
+b9981087-c8ef-4a7c-8d7c-b0732239f5eb,Python Developer,"Upadhyay, Setty and Khare",gurgaon,2026-01-16,Not Disclosed,"Snowflake, Spark, Tableau, Hadoop, Azure, React",,
+a797784b-88b6-451e-8f7c-e91cabd934bc,Python Developer,Pall Inc,gurgaon,2026-01-03,₹10-14 LPA,"SQL, Spark, Snowflake, Tableau",10.0,14.0
+3d5fe6e1-421e-431a-97ff-f210bd583b10,Business Analyst,Agate Ltd,chennai,2025-12-21,₹7-12 LPA,"Hadoop, PowerBI, Statistics, Snowflake, Tableau, Excel",7.0,12.0
+da1c8036-5979-4fb8-9319-3d43830a563d,Junior Data Analyst,Khanna-Kamdar,hyderabad,2026-01-07,₹6-15 LPA,"Machine Learning, React, Java, Excel, AWS",6.0,15.0
+3b02ded3-1185-4338-a82f-0904d0ed2020,Business Analyst,Murty Ltd,bangalore,2025-12-28,Not Disclosed,"SQL, Spark, Statistics, Java, Tableau, Hadoop",,
+20b3a0bf-f321-44c3-bd98-92c097326609,Junior Data Analyst,"Devan, Anne and Mander",gurgaon,2026-01-04,₹8-16 LPA,"PowerBI, Spark, Excel",8.0,16.0
+0129281c-d0fd-42a9-8cfa-91112909f3b6,Python Developer,Bhatti-Sood,gurgaon,2026-01-15,₹10-17 LPA,"Excel, AWS, SQL, Snowflake",10.0,17.0
+0aa5c2b4-e8ce-472f-8a27-a7de4ca09347,Business Analyst,"Soman, Jhaveri and Dey",mumbai,2025-12-23,₹8-13 LPA,"Java, PowerBI, Tableau, Excel",8.0,13.0
+7b2a74d6-7e87-47d4-8757-4c3d87bdef41,Business Analyst,Menon LLC,mumbai,2026-01-17,Not Disclosed,"PowerBI, Excel, Java, Azure, Hadoop, Statistics",,
+9742c494-f168-4ccb-a8f3-0d19bac5d2df,Senior Data Analyst,Bail-Sethi,noida,2026-01-10,₹3-7 LPA,"PowerBI, Tableau, AWS, Excel, SQL, Statistics",3.0,7.0
+c0a3a676-f893-4085-9415-a48659ec0432,Python Developer,"Prakash, Deshpande and Deol",remote,2026-01-15,₹15-19 LPA,"Snowflake, React, Hadoop",15.0,19.0
+89016036-e3eb-4c96-bea1-e9e79c0d7547,Junior Data Analyst,Pradhan LLC,pune,2026-01-09,₹5-10 LPA,"Java, Spark, PowerBI, Azure, Excel",5.0,10.0
+6e1e58c7-39bf-4377-9629-4fcb483ad7d2,Senior Data Analyst,Bali Ltd,delhi,2026-01-10,₹7-15 LPA,"Statistics, Machine Learning, Hadoop, Java, Tableau, Snowflake",7.0,15.0
+ecfff086-a625-448d-98b9-01d484269e95,Data Scientist,"Sarin, Goyal and Mohanty",remote,2025-12-30,₹7-12 LPA,"PowerBI, Java, Excel, Python, Statistics, Hadoop",7.0,12.0
+13408a1b-4d69-4f0e-b03f-ae02c7810025,Senior Data Analyst,Loke-Shan,bangalore,2026-01-03,₹9-19 LPA,"SQL, Java, Statistics",9.0,19.0
+87a58dcd-01f8-4f80-8e0c-c35dfd9171da,Python Developer,"Das, Kumer and Kakar",hyderabad,2025-12-30,₹4-11 LPA,"PowerBI, Machine Learning, Spark",4.0,11.0
+3db48cd1-eb31-43d0-9c80-6444096ada14,Machine Learning Engineer,Balan-Sanghvi,remote,2026-01-03,₹4-10 LPA,"Tableau, Snowflake, Machine Learning, PowerBI, Java",4.0,10.0
+8947d888-5e5e-40af-b6e9-704645ddd502,Python Developer,Tandon-Mukherjee,bangalore,2025-12-26,₹3-13 LPA,"AWS, React, Python, Tableau",3.0,13.0
+cad2d686-d937-4940-9b1b-db3650fa690a,Python Developer,Som PLC,noida,2026-01-11,₹12-22 LPA,"Java, PowerBI, Snowflake",12.0,22.0
+c22f6a98-34c5-4b8f-a664-76fe6bb03800,Data Scientist,Sood-Tak,pune,2025-12-24,₹6-13 LPA,"React, Statistics, SQL",6.0,13.0
+02a76c24-4fd9-4015-8ac6-666626222484,Machine Learning Engineer,Ghosh Ltd,gurgaon,2025-12-26,Not Disclosed,"Python, SQL, Azure, Java",,
+0a7c1610-c96b-4132-ac9f-25868de7711a,Data Analyst,Bhat Inc,delhi,2025-12-23,Not Disclosed,"Tableau, Java, Machine Learning, AWS",,
+7cc59434-af96-4582-bc26-e76176c7d556,Senior Data Analyst,Rattan Ltd,bangalore,2025-12-24,₹10-19 LPA,"Excel, Hadoop, Spark, Snowflake, Tableau, PowerBI",10.0,19.0
+d9a49fe0-9cbb-4558-9ad0-1cf3e169653e,Data Analyst,Sarna-Jhaveri,hyderabad,2025-12-24,₹3-11 LPA,"Azure, Spark, Tableau",3.0,11.0
+0e1e516c-c30a-4599-906f-a7336c53e771,Business Analyst,Mahajan Ltd,bangalore,2026-01-10,₹15-20 LPA,"Machine Learning, SQL, Azure, AWS, React",15.0,20.0
+1a5baf8f-3767-453c-bd2c-3ad41230c434,Data Engineer,Bora and Sons,chennai,2026-01-19,₹14-19 LPA,"Azure, PowerBI, React",14.0,19.0
+22dcf6c5-92f6-49f2-8732-98fe7694d6ee,Machine Learning Engineer,Khosla PLC,noida,2025-12-30,₹6-8 LPA,"PowerBI, Excel, Machine Learning, React, Azure, Statistics",6.0,8.0
+53b76520-39f4-4818-9492-777c044e4b51,Python Developer,"Trivedi, Dhawan and Mammen",noida,2025-12-25,₹15-23 LPA,"Tableau, Spark, Java, React, Excel, AWS",15.0,23.0
+9857d9cb-1114-4b42-a9fe-053b665a29b6,Senior Data Analyst,"Seshadri, Saha and Kumar",hyderabad,2025-12-21,Not Disclosed,"Java, Python, React",,
+837dfc62-a497-455f-b8b1-5b4856948211,Junior Data Analyst,Dhillon LLC,gurgaon,2026-01-13,₹10-16 LPA,"Excel, Tableau, Snowflake, SQL",10.0,16.0
+892940ac-0312-4cb3-90d1-59a4a9a3e49b,Data Scientist,Barman PLC,mumbai,2026-01-08,₹5-10 LPA,"SQL, Hadoop, Java, Tableau, Python, Azure",5.0,10.0
+c832cb10-46ef-478e-990f-040886215440,Data Scientist,Brar-Bera,mumbai,2026-01-16,₹15-22 LPA,"Java, Excel, AWS",15.0,22.0
+9b2b48b3-b58f-4037-8965-ba4cf09c6308,Data Analyst,"Goda, Nagar and Chandra",bangalore,2025-12-24,₹5-11 LPA,"Hadoop, SQL, Snowflake, Java, AWS",5.0,11.0
+bb0b5834-f574-407c-8e2d-b21bce670178,Machine Learning Engineer,Dasgupta Inc,pune,2025-12-29,Not Disclosed,"Excel, Spark, Java",,
+d66727df-7b25-4c75-a3ba-fff21a312037,Machine Learning Engineer,Bahl Ltd,remote,2025-12-31,Not Disclosed,"React, Snowflake, PowerBI, Azure, Excel",,
+d4f31623-1f58-440a-b222-e5411abf2fa4,Senior Data Analyst,Dani LLC,gurgaon,2025-12-31,₹15-21 LPA,"AWS, Hadoop, Machine Learning",15.0,21.0
+124bc1df-fa9a-4e2a-b2a7-0054ed2b9d6d,Business Analyst,"Borra, Chakraborty and Toor",bangalore,2026-01-04,₹10-14 LPA,"Statistics, React, Machine Learning",10.0,14.0
+3321a309-0854-477e-a202-c968feda0ffe,Junior Data Analyst,"Gade, Ahuja and Mital",hyderabad,2026-01-09,₹3-12 LPA,"Azure, Tableau, Hadoop, Python, AWS",3.0,12.0
+96fcf6be-409e-4fba-a706-d51d752cd508,Business Analyst,Merchant-Narayan,delhi,2026-01-06,Not Disclosed,"React, Python, Hadoop",,
+11f79a44-9c7f-4a8d-9798-6ae415afb82a,Data Scientist,Bahl-Nayak,bangalore,2026-01-07,₹12-21 LPA,"Azure, SQL, Java, Tableau",12.0,21.0
+b6d4fd4b-b4f5-4127-b412-f010a344043d,Python Developer,Sarma and Sons,mumbai,2025-12-26,₹8-18 LPA,"Java, Machine Learning, AWS, Python, Statistics, Spark",8.0,18.0
+02a0d6e4-bc48-4de9-a53b-0638c2214e42,Business Analyst,"Chanda, Balay and Sharma",noida,2026-01-11,₹6-10 LPA,"Azure, Hadoop, PowerBI, Excel",6.0,10.0
+57e4cc79-48c0-4c1d-8c9d-d8c37c223954,Data Engineer,"Rai, Narasimhan and Nigam",chennai,2026-01-02,₹5-10 LPA,"Java, Azure, Statistics, React, PowerBI",5.0,10.0
+89bc2911-c9bf-4a54-be4f-a9bf7575aee0,Senior Data Analyst,Bajwa-Krishnan,bangalore,2026-01-07,₹8-12 LPA,"Statistics, Spark, Machine Learning, SQL, PowerBI",8.0,12.0
+f60322f4-62be-4961-ad3f-cc07bf9120bf,Python Developer,"Sengupta, Gokhale and D’Alia",delhi,2026-01-12,₹13-19 LPA,"Python, Azure, Hadoop, Spark",13.0,19.0
+59a72524-91aa-486e-9e60-6135c43ee605,Machine Learning Engineer,"Kant, Verma and Upadhyay",hyderabad,2025-12-26,₹6-10 LPA,"Python, Statistics, Java",6.0,10.0
+19edbaf7-9cfc-40b7-8e8b-d5c31a2ba357,Data Analyst,Thaker-Rana,hyderabad,2026-01-01,₹10-17 LPA,"SQL, Python, React",10.0,17.0
+316cf689-537a-4a75-9a3f-14efc4d3048a,Python Developer,"Gala, Sathe and Merchant",bangalore,2026-01-16,₹9-11 LPA,"Azure, Spark, Hadoop, React",9.0,11.0
+0eb017c0-6a73-4201-9208-dfe7208f558a,Python Developer,Bajwa and Sons,chennai,2025-12-29,₹15-18 LPA,"Hadoop, Python, Azure, Machine Learning, PowerBI",15.0,18.0
+9c82108c-3e76-42dc-a820-9bad613bde48,Data Analyst,Shetty Inc,gurgaon,2026-01-19,₹5-12 LPA,"PowerBI, Tableau, Snowflake, Azure, React, SQL",5.0,12.0
+b5da995a-5a3b-4b24-b192-faa7949ac860,Data Analyst,Cheema-Sawhney,hyderabad,2026-01-10,₹14-22 LPA,"SQL, Python, AWS",14.0,22.0
+d134e174-fe8b-4674-8f02-830cfc5adbec,Junior Data Analyst,Dewan Ltd,pune,2026-01-11,₹15-23 LPA,"Tableau, Java, Azure, Python, SQL, AWS",15.0,23.0
+2b85be95-a49a-4a5f-ab7a-3f67d0c5bcc3,Business Analyst,Kapur-Taneja,delhi,2025-12-31,Not Disclosed,"Azure, Excel, Hadoop, SQL, Java, Snowflake",,
+0457ea9a-8a86-424d-959a-9356296712d9,Python Developer,Naidu PLC,bangalore,2025-12-23,₹11-14 LPA,"Spark, Machine Learning, React",11.0,14.0
+86051382-cde7-42a0-bb90-93e533dd4347,Data Engineer,Prasad-Kakar,bangalore,2026-01-07,₹15-25 LPA,"AWS, React, Statistics, Excel",15.0,25.0
+0608ca32-496b-4b43-afcd-f6a75260b7ca,Data Scientist,Merchant PLC,bangalore,2026-01-15,₹12-18 LPA,"Machine Learning, PowerBI, Tableau, AWS",12.0,18.0
+8fa6385f-38b3-4ada-bcfb-575b468e801a,Data Scientist,Date Group,remote,2026-01-15,₹6-9 LPA,"Java, Spark, Machine Learning, Excel",6.0,9.0
+0c7d4416-e1af-446f-a47b-f38bf994ea56,Python Developer,"Anand, Dyal and Mall",delhi,2025-12-29,₹5-10 LPA,"Azure, Python, Hadoop, Tableau, React",5.0,10.0
+27a207ec-a349-41b9-bd98-37f84960de5a,Data Analyst,Borde and Sons,gurgaon,2026-01-10,₹6-13 LPA,"Python, Hadoop, PowerBI",6.0,13.0
+167f2035-f34d-4337-94bc-2a7d7d9aff3f,Data Analyst,"Mane, Lall and Gopal",mumbai,2026-01-02,Not Disclosed,"Hadoop, Java, Python, React, Tableau",,
+bd93c1e3-8a25-4692-b56b-b596c558897f,Data Analyst,Deshmukh LLC,mumbai,2026-01-02,₹7-14 LPA,"Azure, Snowflake, Spark, Java, Excel, React",7.0,14.0
+f4d98158-abfe-44ba-815d-9540be059716,Machine Learning Engineer,Sur Inc,delhi,2025-12-25,₹7-10 LPA,"Hadoop, Excel, PowerBI",7.0,10.0
+de61fb47-94b2-4043-a889-1ab049560017,Business Analyst,Korpal Group,bangalore,2025-12-25,₹4-9 LPA,"Tableau, Excel, Spark, SQL",4.0,9.0
+d0a0b66e-e94c-48df-b54a-70822454eff9,Junior Data Analyst,"Dada, Loke and Agrawal",gurgaon,2025-12-30,₹7-16 LPA,"Snowflake, Statistics, AWS, React, Machine Learning, Python",7.0,16.0
+78664c3e-c2d5-4f61-afc7-44f31997125b,Junior Data Analyst,"Parikh, Mohanty and Barad",delhi,2026-01-13,₹10-12 LPA,"Python, Azure, Excel",10.0,12.0
+e9136d2a-27f6-49fc-b877-385208c033ac,Machine Learning Engineer,Kadakia-Bhat,bangalore,2025-12-27,Not Disclosed,"Python, AWS, Snowflake, Tableau, React, SQL",,
+d946a1b8-67cb-4138-b8c5-d8e10e8b6ea6,Senior Data Analyst,"Om, Kothari and Gulati",bangalore,2026-01-09,₹8-15 LPA,"Spark, Python, React, Azure",8.0,15.0
+4972949a-850e-4bb0-865a-b9b05d944926,Junior Data Analyst,"Rama, Srinivas and Prabhakar",delhi,2026-01-08,Not Disclosed,"Spark, Tableau, AWS, Python",,
+399c8140-e3c8-4fde-a69b-67d8066b39ef,Junior Data Analyst,Chacko Inc,hyderabad,2026-01-08,Not Disclosed,"React, AWS, Tableau, Statistics, Hadoop",,
+28196f00-659a-4a01-8dbf-d1621736d48a,Junior Data Analyst,"Ahuja, Manda and Hegde",hyderabad,2026-01-07,₹6-8 LPA,"Tableau, Snowflake, Statistics, SQL, PowerBI",6.0,8.0
+c9ccd042-d12e-4f6a-8156-890eca5382b8,Machine Learning Engineer,Baral Ltd,delhi,2025-12-28,₹9-11 LPA,"Java, Tableau, Azure, Snowflake",9.0,11.0
+b7112a18-02ec-4c88-964b-e7c6cd1cad89,Data Analyst,"Date, Vohra and Srinivasan",pune,2026-01-13,₹8-14 LPA,"SQL, Hadoop, Machine Learning, React, Statistics",8.0,14.0
+63d5bcc0-8dfa-413f-b480-fd9e2d5427c4,Machine Learning Engineer,Sampath-Kalla,remote,2026-01-17,₹8-15 LPA,"Excel, Tableau, PowerBI, SQL, React, Python",8.0,15.0
+f29a39f9-c28a-46f9-a1d9-0fdc9a4e85f5,Machine Learning Engineer,Prabhakar-Parekh,remote,2026-01-15,₹9-18 LPA,"Spark, Azure, SQL, Python, React",9.0,18.0
+b3a9bf38-f34f-4f4c-8c0b-21aa948ac8de,Junior Data Analyst,"Boase, Varkey and Manne",pune,2026-01-18,₹10-16 LPA,"Azure, Machine Learning, Java, Snowflake",10.0,16.0
+04c4c377-de32-4531-9e34-ebb2db9a0619,Machine Learning Engineer,Pant Inc,mumbai,2026-01-06,Not Disclosed,"Python, Excel, Spark",,
+4a5ddaee-bf76-4371-91f2-b82d789f8b93,Machine Learning Engineer,Sabharwal-Gill,mumbai,2025-12-23,₹3-12 LPA,"Excel, React, SQL, Spark, Snowflake, Machine Learning",3.0,12.0
+b00ac046-69fb-4eaf-ab61-e859a814618f,Junior Data Analyst,"Walia, Bajaj and Biswas",hyderabad,2026-01-16,₹15-20 LPA,"Hadoop, Azure, AWS, Python, Machine Learning, Statistics",15.0,20.0
+f1584d3a-5858-4769-88cf-eb2c17d0ebbf,Junior Data Analyst,"Ram, Bajaj and Dugar",remote,2026-01-03,₹15-23 LPA,"Machine Learning, Snowflake, Java, Hadoop, React, SQL",15.0,23.0
+08dfdabd-0c59-4480-bbd2-d647346dc25f,Senior Data Analyst,"Rattan, Sridhar and Seshadri",bangalore,2025-12-22,₹8-18 LPA,"Snowflake, AWS, Tableau, Python",8.0,18.0
+b583945e-0256-485c-9613-d466d0acee24,Data Scientist,Edwin Ltd,pune,2026-01-19,₹13-21 LPA,"Hadoop, PowerBI, SQL, Machine Learning, Java, Tableau",13.0,21.0
+337c26a2-fe2c-4a50-89da-eb358a955b09,Machine Learning Engineer,"Saxena, Saran and Murthy",remote,2026-01-13,₹5-14 LPA,"AWS, Python, Spark, Java, Machine Learning, Hadoop",5.0,14.0
+c3a48fb3-d022-4769-9d7d-d00facf21315,Python Developer,Savant-Trivedi,remote,2026-01-02,₹11-13 LPA,"AWS, Excel, Hadoop, SQL",11.0,13.0
+f08285bc-fce5-4798-9870-4778b9b3db6b,Machine Learning Engineer,Madan PLC,bangalore,2026-01-01,₹12-17 LPA,"SQL, React, Java, Hadoop, Tableau",12.0,17.0
+7bba39d8-0d9c-4992-916b-d46e7e993006,Machine Learning Engineer,Pandey-Saini,chennai,2025-12-25,Not Disclosed,"Java, Tableau, Hadoop",,
+8c6c4bd0-247e-49d1-937b-1f260a58c0b7,Data Scientist,"Khare, Merchant and Khanna",gurgaon,2026-01-02,₹12-15 LPA,"Snowflake, Java, Spark, AWS",12.0,15.0
+13ab3119-be8d-40be-b24c-7cc14676e309,Data Scientist,Shere Group,gurgaon,2026-01-01,₹8-17 LPA,"PowerBI, AWS, Tableau, Hadoop",8.0,17.0
+a1eeb90f-ab5a-4718-8e2b-26482fdd3c17,Data Analyst,Sinha Group,remote,2026-01-10,₹13-17 LPA,"SQL, Machine Learning, Statistics",13.0,17.0
+9c901dcd-96bc-4f7e-9bb5-1a334498fb3d,Junior Data Analyst,"Sachdeva, Sagar and Sharaf",chennai,2026-01-07,₹10-16 LPA,"Statistics, Azure, Excel, SQL, Spark",10.0,16.0
+1eb5bd94-fd3f-4e51-b18d-14a19bd6628e,Data Analyst,Verma-Seth,pune,2025-12-26,₹4-14 LPA,"Machine Learning, Azure, Spark, SQL, Snowflake",4.0,14.0
+6896eacc-76f0-4001-a132-2fb7fe6dbdef,Data Analyst,Bobal Ltd,chennai,2026-01-12,₹11-21 LPA,"Tableau, Spark, SQL, Snowflake",11.0,21.0
+807a0f43-f217-482d-a061-ba83f96d7da4,Senior Data Analyst,Krishnamurthy-Walia,gurgaon,2026-01-18,₹8-13 LPA,"Machine Learning, Java, SQL, Azure, Spark",8.0,13.0
+303c9a83-1757-4d03-a183-2c8e8336ea48,Data Engineer,"Bhavsar, Dar and Venkataraman",pune,2026-01-11,₹5-10 LPA,"Azure, React, PowerBI, Snowflake, Machine Learning",5.0,10.0
+3badd4ec-8de1-4559-8310-2d050f1c0d2b,Data Scientist,Nagy-Bhargava,remote,2026-01-15,₹10-16 LPA,"Statistics, SQL, Machine Learning, Java, Tableau, Hadoop",10.0,16.0
+b03808a9-bbfc-481c-baea-f81ddb79ae08,Data Analyst,"Brar, Ratta and Sinha",delhi,2026-01-04,₹6-12 LPA,"Spark, React, Snowflake, SQL, Java",6.0,12.0
+bbee0108-bf73-42a8-96fe-11be450677da,Data Scientist,Ramachandran-Prasad,noida,2025-12-22,₹7-17 LPA,"Spark, Machine Learning, Excel, React",7.0,17.0
+206c3e47-5c5d-49be-85f5-efefc0c5df62,Data Analyst,Ganesan-Ratti,gurgaon,2026-01-17,Not Disclosed,"Statistics, Hadoop, Excel, Machine Learning",,
+9afaeb1a-289d-4517-abc7-c775bf8dd0f2,Machine Learning Engineer,Kashyap-Bhandari,hyderabad,2026-01-03,₹7-9 LPA,"Azure, Python, Excel, Java, AWS, Tableau",7.0,9.0
+4652d8d9-dc10-4965-aaf6-afb209c50f86,Senior Data Analyst,Pingle-Borah,noida,2025-12-21,Not Disclosed,"React, AWS, Excel, Hadoop, Snowflake",,
+47b881e1-f86a-44a9-b014-614731b3f6a4,Machine Learning Engineer,Sane Ltd,pune,2026-01-07,₹14-24 LPA,"Machine Learning, Hadoop, Statistics, React",14.0,24.0
+36c39607-d8cc-4e12-bae7-20190631fcec,Python Developer,"Sami, Master and Chaudry",noida,2026-01-16,₹6-13 LPA,"AWS, Java, Tableau",6.0,13.0
+7a753ea0-e7e4-4470-9261-b87cda82920d,Business Analyst,"Khare, Bhardwaj and Panchal",bangalore,2026-01-06,Not Disclosed,"Azure, Java, PowerBI, Tableau, Python, React",,
+eb94ce33-cd14-404b-a6fd-6b8d5dcc14a9,Business Analyst,Solanki Group,chennai,2025-12-21,₹15-18 LPA,"Python, AWS, Excel, Spark",15.0,18.0
+ce62418d-19af-4612-b316-32ff2145caf1,Business Analyst,"Chandra, Kalla and Uppal",noida,2025-12-30,₹7-16 LPA,"Excel, Java, PowerBI, React",7.0,16.0
+66cace1d-9d8b-47b3-906d-0a7f5df10e66,Python Developer,"Viswanathan, Mohan and Jayaraman",bangalore,2026-01-06,₹15-24 LPA,"React, Hadoop, PowerBI",15.0,24.0
+b6dff58b-5a0c-47ad-9303-8a3f389caa1f,Senior Data Analyst,"Guha, Karan and Dalal",chennai,2025-12-31,₹8-17 LPA,"AWS, Python, Azure",8.0,17.0
+e93751c6-eeba-48cf-a3a5-ae60424fe6f1,Python Developer,Kuruvilla-Bandi,remote,2025-12-27,₹10-18 LPA,"Spark, Hadoop, SQL, React",10.0,18.0
+c1a43b25-8370-4a88-9f48-ace2c1c77290,Data Engineer,"Samra, Bhavsar and Wali",bangalore,2025-12-23,₹11-16 LPA,"Statistics, Machine Learning, Python, React",11.0,16.0
+73a69685-8060-44b4-9d6d-89f64cb36b26,Machine Learning Engineer,Agrawal-Shroff,bangalore,2026-01-04,₹6-13 LPA,"React, Snowflake, AWS, SQL, PowerBI, Hadoop",6.0,13.0
+4437ddb0-f895-4b4d-b7ae-f048c2c755a8,Business Analyst,Hegde-Konda,pune,2025-12-27,₹11-15 LPA,"Snowflake, AWS, React, Java, Hadoop",11.0,15.0
+98e883af-7391-477e-a9f2-fc07ebf4bb3e,Data Engineer,"Palla, Yadav and Ravi",pune,2025-12-30,₹14-19 LPA,"PowerBI, Spark, Statistics, Python, Machine Learning, Snowflake",14.0,19.0
+7212b65a-f6f2-4af4-8526-7694e463eb60,Business Analyst,Sami Ltd,delhi,2026-01-11,₹12-18 LPA,"Azure, Tableau, Spark, Snowflake",12.0,18.0
+21fc1132-f6ad-421a-945a-c19db01343e7,Business Analyst,Dhillon Ltd,bangalore,2025-12-26,₹12-15 LPA,"Azure, SQL, Hadoop, Spark, Statistics",12.0,15.0
+ed9d2403-b432-44ed-8193-96542bddd47d,Machine Learning Engineer,Padmanabhan-Wali,bangalore,2025-12-25,₹10-19 LPA,"Tableau, AWS, Snowflake, Machine Learning, Hadoop, PowerBI",10.0,19.0
+aced96ae-4645-47e9-a9e7-7e06c237ede8,Business Analyst,"Bajwa, Behl and Dutta",bangalore,2026-01-19,₹5-9 LPA,"Excel, Azure, Spark",5.0,9.0
+adc506a0-20f9-49b1-91b9-935942c781eb,Junior Data Analyst,Venkatesh and Sons,remote,2026-01-13,₹11-16 LPA,"Spark, Azure, Snowflake, SQL, Machine Learning",11.0,16.0
+9abced61-09cc-4931-8b8d-312eb90c5eed,Data Scientist,Tripathi-Mani,delhi,2026-01-15,Not Disclosed,"AWS, Statistics, Tableau, Hadoop, Spark, Excel",,
+b21e4796-9dd6-406e-9499-ce20112edc64,Python Developer,Jani-Bhagat,bangalore,2026-01-11,Not Disclosed,"Azure, Statistics, Excel",,
+93f2b54b-3c4e-4178-a26b-a1742c8fcd04,Data Analyst,Kara-Parsa,pune,2025-12-22,₹14-17 LPA,"Spark, Statistics, Java",14.0,17.0
+316b110a-0c49-4909-a672-57460db94da2,Data Scientist,Sant LLC,delhi,2025-12-25,₹14-22 LPA,"Machine Learning, Hadoop, Java, Excel",14.0,22.0
+73d04bad-e3fd-4d77-8ee9-5bac33bfe078,Business Analyst,"Bhat, Ram and Balay",mumbai,2026-01-05,Not Disclosed,"Statistics, Azure, Machine Learning, React, Python, Tableau",,
+3dc22710-bbf0-4d84-b8a2-d6e7e8dd502e,Data Scientist,"Borah, Thakur and Kohli",noida,2026-01-10,₹5-10 LPA,"Azure, Excel, PowerBI, Statistics, SQL, Tableau",5.0,10.0
+57d5a331-2ee4-45b4-8a7c-7a5cf1a44d50,Senior Data Analyst,"Nayak, Sengupta and Setty",gurgaon,2025-12-23,₹7-13 LPA,"Statistics, Excel, Python, AWS",7.0,13.0
+ac9d4afd-f2d7-40f3-a1dd-bfd16e1b724a,Business Analyst,"Murthy, Dayal and Chana",gurgaon,2025-12-31,₹9-13 LPA,"Java, SQL, Machine Learning",9.0,13.0
+e73d60b0-8991-42d2-bbc0-8143089f268b,Senior Data Analyst,Toor Group,bangalore,2026-01-15,₹7-11 LPA,"Azure, AWS, Spark, Excel, Statistics, Tableau",7.0,11.0
+22e2cd54-1fc6-43fb-911c-9ee72a78d6e5,Junior Data Analyst,"Dhawan, Hayre and Basak",noida,2025-12-28,₹9-19 LPA,"PowerBI, Azure, Spark, Hadoop, Excel, AWS",9.0,19.0
+023a3997-5540-4a51-896f-513a39baf1a0,Python Developer,"Tata, Baral and Ramanathan",mumbai,2025-12-26,₹7-17 LPA,"Tableau, Machine Learning, Azure, PowerBI",7.0,17.0
+8ac21765-36e4-4548-b0d1-1caeb9549df9,Data Scientist,Soni Group,delhi,2025-12-24,Not Disclosed,"Snowflake, Machine Learning, PowerBI, Python",,
+74cda1da-3052-4cca-bb7c-d8245b5ed083,Business Analyst,Saxena-Mitter,remote,2025-12-24,Not Disclosed,"Statistics, AWS, Spark",,
+3deaea80-cca9-4012-9365-4586fdbb5675,Data Engineer,Chander Inc,remote,2025-12-24,₹12-22 LPA,"Tableau, Java, Azure, Statistics, Machine Learning, Snowflake",12.0,22.0
+4910d2f3-2715-43c5-999f-52ebef27729a,Business Analyst,"Chawla, Dhar and Roy",remote,2025-12-21,₹4-14 LPA,"Spark, PowerBI, Snowflake, Java, Tableau, React",4.0,14.0
+26b99b23-fcdf-4d56-8ae8-e8bd0ccaf230,Data Engineer,"Bahl, Dua and Dara",delhi,2026-01-05,Not Disclosed,"Statistics, Snowflake, Spark, PowerBI, Tableau",,
+bdf33829-f578-4d2a-b17a-26c2e7ffcf3d,Business Analyst,Lad and Sons,bangalore,2026-01-02,₹11-20 LPA,"Statistics, AWS, Azure, SQL, Machine Learning, Hadoop",11.0,20.0
+21a8ba7e-ae35-49cf-9149-f070009d518e,Business Analyst,Madan Inc,gurgaon,2025-12-21,₹11-21 LPA,"Python, Tableau, Snowflake, AWS",11.0,21.0
+663067ce-11d0-4526-85ca-d7ef3a431d7f,Data Scientist,Sarin-Varghese,hyderabad,2026-01-01,₹5-14 LPA,"AWS, Hadoop, SQL, Excel, Azure",5.0,14.0
+86aef901-d2b1-4b1c-96c6-9e23ef52d5d1,Python Developer,Sarna Ltd,gurgaon,2026-01-06,₹11-20 LPA,"React, AWS, Python",11.0,20.0
+f5a6c0c0-dd2a-4b5d-a9dd-a5f307025267,Data Analyst,Choudhary-Misra,hyderabad,2025-12-24,₹10-15 LPA,"AWS, SQL, Statistics",10.0,15.0
+de5496bd-15f8-449f-a407-ed03c1678d66,Python Developer,Oommen-Narasimhan,mumbai,2026-01-19,₹7-9 LPA,"Java, SQL, Python, Azure, Statistics",7.0,9.0
+08208910-5cfc-4e82-aaf1-334bf93bbc98,Data Analyst,Krishnamurthy-Sarin,delhi,2026-01-06,₹10-14 LPA,"Java, Spark, Statistics, PowerBI, AWS",10.0,14.0
+6f8d7f54-fddd-49d9-a376-3f576ab3a929,Business Analyst,Bakshi LLC,pune,2026-01-01,₹15-18 LPA,"PowerBI, Snowflake, Hadoop, Excel, Statistics",15.0,18.0
+408d1696-a7cc-49a6-9721-50d12113da21,Data Scientist,Sachdeva-Jaggi,hyderabad,2026-01-10,₹13-21 LPA,"Tableau, React, Excel, SQL",13.0,21.0
+cee24367-b013-446d-b13d-17ff643de0e7,Data Scientist,Nadig-Kale,noida,2026-01-13,₹14-19 LPA,"Python, Machine Learning, Hadoop, Azure, Spark, Java",14.0,19.0
+9c074f67-7c18-42c7-adf7-ec745aa1cbe9,Data Analyst,"Sundaram, Garde and Vohra",gurgaon,2026-01-13,₹3-11 LPA,"SQL, Spark, AWS",3.0,11.0
+5aa81484-ef96-48a6-bf91-03331a289b17,Machine Learning Engineer,Master-Keer,delhi,2026-01-19,₹15-17 LPA,"PowerBI, Hadoop, Statistics, Spark, AWS, Python",15.0,17.0
+a0099f16-6df1-4a11-b424-b6114a5f060d,Python Developer,"Dara, Sura and Dar",chennai,2026-01-01,₹12-19 LPA,"React, Python, Excel, Statistics",12.0,19.0
+f61f9d9e-658c-4348-a004-b9763fd09d54,Data Analyst,"Natarajan, Choudhury and Murthy",bangalore,2025-12-31,₹8-12 LPA,"Excel, Azure, React",8.0,12.0
+d29e878f-ba05-41bf-906a-d36600fb2d82,Business Analyst,Chandran Ltd,gurgaon,2026-01-19,₹9-19 LPA,"PowerBI, Statistics, Azure",9.0,19.0
+b7646446-8978-4074-82c4-d7578d64e3d1,Senior Data Analyst,Sankaran and Sons,pune,2026-01-08,₹11-15 LPA,"Python, Statistics, React",11.0,15.0
+cf7e25c1-40a9-48bf-a03e-2d1bcbb9bfbd,Junior Data Analyst,Oommen PLC,hyderabad,2025-12-29,Not Disclosed,"Snowflake, Tableau, Statistics",,
+f76b3bc9-16eb-4f2d-9883-d4aa732863d9,Junior Data Analyst,Konda Inc,delhi,2025-12-28,₹10-12 LPA,"PowerBI, Statistics, SQL, Excel",10.0,12.0
+bdc65df9-eb2e-402f-b889-4ead67353d6d,Data Scientist,Srinivas-Nigam,chennai,2026-01-14,₹9-16 LPA,"Azure, Tableau, AWS",9.0,16.0
+b99b92ea-127d-4fd9-a533-ad7225609ebc,Python Developer,"Kaul, Choudhary and Minhas",bangalore,2026-01-08,₹4-12 LPA,"Spark, Machine Learning, Python",4.0,12.0
+60f7eec1-093a-40d3-b568-4a186620e733,Senior Data Analyst,Dave Inc,noida,2026-01-15,₹5-15 LPA,"Python, React, SQL",5.0,15.0
+c69c6109-e003-44b5-934e-fcd5dd3fdee6,Data Analyst,Chakrabarti-Ahluwalia,noida,2025-12-31,Not Disclosed,"Python, PowerBI, Azure, Statistics, Snowflake",,
+2739698d-9881-45be-a505-1f293b92065d,Business Analyst,Madan Inc,chennai,2026-01-15,Not Disclosed,"Machine Learning, Statistics, SQL, PowerBI, Python, React",,
+d2a5704a-bf3d-4cd4-b587-3774cacda520,Business Analyst,Nayak-Shroff,bangalore,2026-01-07,₹13-17 LPA,"React, SQL, Python, AWS, Hadoop, Tableau",13.0,17.0
+d72257f1-4539-483d-ab5f-388b5bcad1d3,Data Scientist,"Gill, Mani and Sundaram",delhi,2026-01-08,₹9-13 LPA,"AWS, Snowflake, Azure, Statistics",9.0,13.0
+732c0e2f-aaed-432b-aea9-acd7dc0b4b29,Data Scientist,Majumdar Ltd,pune,2026-01-16,Not Disclosed,"Snowflake, Hadoop, Java, SQL",,
+288e8593-dded-4507-a06d-97cd09b7d28c,Python Developer,"Bala, Bhattacharyya and Rajan",noida,2025-12-21,Not Disclosed,"SQL, Statistics, PowerBI",,
+9d12244d-f427-4b94-8a2f-7a756477db68,Junior Data Analyst,Brar-Sastry,bangalore,2026-01-12,₹7-11 LPA,"PowerBI, Machine Learning, AWS",7.0,11.0
+46361456-79e0-4e71-be4f-a43ec954b0b0,Junior Data Analyst,Handa-Sundaram,noida,2025-12-21,Not Disclosed,"React, Statistics, Hadoop, PowerBI",,
+8219e4fc-3e0c-456e-bba9-92c917fee805,Senior Data Analyst,"Khare, Shankar and Raja",chennai,2026-01-10,₹9-11 LPA,"Azure, Snowflake, Tableau",9.0,11.0
+25e65e7e-9bb2-419f-8f3a-a3be0c30f6cf,Data Scientist,Menon PLC,mumbai,2026-01-17,₹13-17 LPA,"React, Java, Excel, Snowflake",13.0,17.0
+08e485a4-7844-4919-96f7-0cacc5a25b47,Data Analyst,Gokhale Ltd,mumbai,2025-12-25,₹3-10 LPA,"Snowflake, SQL, Machine Learning, Hadoop, Tableau",3.0,10.0
+4223ad0e-7e1d-4048-80cf-e6ce0e656fcd,Data Scientist,"Jani, Baral and Devan",chennai,2026-01-09,₹4-10 LPA,"Statistics, Tableau, Hadoop, Python",4.0,10.0
+ba21352d-b52c-42a3-828d-2185aae046b5,Junior Data Analyst,"Kibe, Tank and Kant",pune,2025-12-24,₹14-23 LPA,"Machine Learning, PowerBI, AWS",14.0,23.0
+78b2e338-4b53-4d66-b50d-66758a43cba6,Data Scientist,Ramesh-Raju,chennai,2025-12-27,₹4-14 LPA,"Azure, Snowflake, PowerBI, SQL, Statistics",4.0,14.0
+98574298-3d14-470a-8177-2b393b10f9de,Data Engineer,Ghosh-Sibal,hyderabad,2025-12-26,₹6-12 LPA,"Python, PowerBI, AWS, Java",6.0,12.0
+8dcb342b-215a-473a-b3d4-f9c440fd1a76,Junior Data Analyst,Srinivasan-Guha,bangalore,2026-01-08,₹3-7 LPA,"React, Hadoop, SQL",3.0,7.0
+dfa6f5b7-321d-489c-b040-3e69553910a6,Python Developer,"Ghosh, Srinivasan and Khanna",pune,2026-01-05,Not Disclosed,"Snowflake, Statistics, Azure",,
+f1f19391-2f10-4ede-b7c0-f56b048a801f,Data Scientist,Badal-Goda,remote,2026-01-13,₹7-16 LPA,"Tableau, Java, PowerBI, Machine Learning, Spark",7.0,16.0
+7d91b27b-9a9f-4467-b96e-71f996e419aa,Machine Learning Engineer,Kibe Ltd,remote,2026-01-05,₹7-12 LPA,"Python, Machine Learning, AWS, SQL, Spark, Tableau",7.0,12.0
+fbf5eb3d-e80a-4fe1-ae1d-652341da09c6,Business Analyst,Pillai PLC,bangalore,2025-12-26,₹13-20 LPA,"Excel, Statistics, Hadoop",13.0,20.0
+a1e0b1a5-1155-4102-accb-88a9f4196639,Data Scientist,Ramanathan Group,bangalore,2025-12-25,₹6-12 LPA,"Snowflake, PowerBI, Azure",6.0,12.0
+e7073d80-99f1-4b1b-a493-b51dede58774,Data Scientist,Shukla PLC,remote,2026-01-01,₹10-13 LPA,"Tableau, Python, Snowflake",10.0,13.0
+e68e0b52-ec8a-405e-b7b6-4a210602f941,Senior Data Analyst,"Bera, Jain and Patla",bangalore,2025-12-23,₹13-17 LPA,"Machine Learning, PowerBI, SQL, Snowflake, AWS",13.0,17.0
+6510dad7-ae2a-430b-b73d-b252f22d3487,Data Analyst,Ratti LLC,remote,2026-01-01,₹12-19 LPA,"Statistics, Tableau, Azure, Spark",12.0,19.0
+ae5754c5-ff59-4576-96fa-166d45914bac,Senior Data Analyst,Dugar Inc,mumbai,2026-01-02,₹13-22 LPA,"Java, Spark, SQL",13.0,22.0
+da4c061a-99aa-4557-a2e1-b913ea9375e1,Python Developer,"Mital, Ramanathan and Bail",pune,2026-01-02,₹4-8 LPA,"Spark, Java, PowerBI, AWS, Statistics",4.0,8.0
+a398886e-2378-449c-b256-537c9c17e722,Data Scientist,"Din, Barad and Munshi",bangalore,2026-01-18,₹7-11 LPA,"Snowflake, Python, PowerBI",7.0,11.0
+4f437b37-1c39-4aaf-8ad7-73eaf2f9167a,Junior Data Analyst,Dutt-Dhaliwal,chennai,2026-01-02,₹8-10 LPA,"Hadoop, Spark, React, Snowflake, SQL",8.0,10.0
+13ecde46-a7ea-4238-b256-9c564f5c7a39,Data Scientist,Kata-Pant,mumbai,2026-01-09,₹15-20 LPA,"React, Statistics, Azure, AWS",15.0,20.0
+b3d9bd45-2224-483d-b719-f1c397c5840a,Business Analyst,Choudhury Group,bangalore,2026-01-07,Not Disclosed,"Azure, SQL, Java, Python, Machine Learning, AWS",,
+7a6652bd-8900-4af8-a8f9-54a9f2807aa5,Junior Data Analyst,Prasad LLC,noida,2025-12-28,₹15-21 LPA,"Machine Learning, AWS, Hadoop, Snowflake",15.0,21.0
+f96e8dfe-0048-40d1-80c6-653f03e2fe38,Machine Learning Engineer,Ratti-Bhakta,delhi,2026-01-02,₹10-18 LPA,"Azure, Snowflake, Excel",10.0,18.0
+f0c6189c-52cf-4b97-9096-28b9e0ed80e7,Data Scientist,Upadhyay PLC,delhi,2026-01-05,₹6-15 LPA,"Spark, PowerBI, SQL, Hadoop, Azure, AWS",6.0,15.0
+d080dbd1-49d5-4fe9-98b4-449aaee267d8,Data Analyst,Oommen-Chanda,pune,2026-01-10,Not Disclosed,"Machine Learning, Statistics, Hadoop, Snowflake",,
+59db3361-7cb6-438b-86ce-2589c9e19a6f,Machine Learning Engineer,Korpal Inc,gurgaon,2025-12-27,₹14-20 LPA,"Python, React, Azure",14.0,20.0
+6a036c16-ba23-489e-a8f8-959bce736746,Junior Data Analyst,"Issac, Nanda and Chakrabarti",mumbai,2025-12-25,₹15-18 LPA,"PowerBI, Java, Azure",15.0,18.0
+81c194ad-cce0-47b1-95ad-26bb408414d9,Business Analyst,Basu Group,mumbai,2026-01-18,₹15-21 LPA,"Spark, Snowflake, Tableau",15.0,21.0
+8d44f813-2f48-456b-b3a4-6b91bfae646e,Data Scientist,De-Karnik,noida,2026-01-15,₹9-14 LPA,"Python, Machine Learning, SQL, Tableau",9.0,14.0
+874d4277-2569-49e7-8c70-65dfaf80528c,Business Analyst,"Sangha, Murthy and Wason",noida,2026-01-17,₹11-18 LPA,"Excel, Tableau, Azure, SQL, Machine Learning",11.0,18.0
+4fd80f79-54d6-4b76-85a1-6331f3a78dad,Data Scientist,Soman-Khanna,noida,2025-12-29,₹9-14 LPA,"Azure, Excel, Snowflake",9.0,14.0
+e0e2d515-03f8-4d42-9d0c-ece73e4c068a,Data Scientist,Bains-Padmanabhan,noida,2025-12-29,₹11-19 LPA,"Machine Learning, Excel, Azure, Spark, React, Python",11.0,19.0
+64dd33ab-e31c-439c-8aa8-947b3b3fb6b0,Machine Learning Engineer,Lal-Minhas,gurgaon,2025-12-29,₹14-17 LPA,"Tableau, Azure, Python, Snowflake, Statistics",14.0,17.0
+a3608f4d-a883-4c1a-89a0-ecfe2abacc8c,Business Analyst,Narain Inc,pune,2025-12-29,₹12-18 LPA,"React, Java, PowerBI, Snowflake",12.0,18.0
+c4989406-13f2-4fef-b035-0f83d5e50d6b,Data Analyst,Kade-Guha,hyderabad,2026-01-13,₹12-15 LPA,"Excel, Statistics, Machine Learning, Java, AWS",12.0,15.0
+bba20fc4-b9dd-422a-b9a2-8501275c5a67,Python Developer,"Kunda, Mitter and Salvi",chennai,2026-01-11,₹11-21 LPA,"Azure, Statistics, Snowflake, Machine Learning, SQL",11.0,21.0
+d0c8e8b3-521c-477d-9a12-c10a29834343,Data Analyst,Krish LLC,bangalore,2026-01-13,₹6-11 LPA,"Snowflake, Tableau, PowerBI, Spark, Python, Excel",6.0,11.0
+3bd9dbd5-40db-46ff-a013-0ae36f551663,Data Analyst,Pandit LLC,pune,2025-12-31,₹15-25 LPA,"Hadoop, Tableau, Snowflake, AWS",15.0,25.0
+0f293f37-3f58-4777-a924-9651a8bb9344,Business Analyst,Butala Group,bangalore,2026-01-11,₹4-7 LPA,"Java, Machine Learning, PowerBI, Statistics, Hadoop",4.0,7.0
+ec571b20-99bf-4a5c-98bd-d275377cb1f3,Data Engineer,Singh-Nagi,hyderabad,2026-01-06,₹8-10 LPA,"SQL, Hadoop, Statistics, Python, Java, Snowflake",8.0,10.0
+45f23e9c-7338-4ff1-a09c-532c00efb8ee,Data Engineer,Varty-Kant,remote,2026-01-12,₹7-13 LPA,"Azure, Spark, Excel",7.0,13.0
+21fa93be-709e-4cd7-b36f-6a0b05208a83,Data Engineer,"Sha, Mittal and Memon",delhi,2026-01-08,Not Disclosed,"Tableau, Python, Azure",,
+88e4d61d-8bfc-4951-85aa-7bbb2a34409e,Junior Data Analyst,Banerjee PLC,pune,2025-12-22,₹11-17 LPA,"Tableau, Snowflake, Spark, Statistics, Python",11.0,17.0
+9bd86774-0138-45c7-8393-41237f998ede,Senior Data Analyst,Dubey Ltd,delhi,2025-12-28,₹6-13 LPA,"Hadoop, Python, PowerBI, React, Machine Learning",6.0,13.0
+3876e414-f085-461e-a3f3-9dd6c0fac003,Python Developer,"Seth, Iyengar and Chawla",bangalore,2026-01-18,₹13-16 LPA,"Excel, Tableau, Machine Learning, AWS",13.0,16.0
+be048b0a-54d6-4582-aab8-8311cfc8aeda,Business Analyst,"Vohra, Chacko and Tripathi",hyderabad,2026-01-07,₹15-23 LPA,"Excel, AWS, Snowflake, Python",15.0,23.0
+bf2dcca2-2d86-43c9-a2b5-92ff0e300d4f,Machine Learning Engineer,"Comar, Saran and Chadha",hyderabad,2025-12-24,₹15-21 LPA,"Snowflake, Spark, Azure, AWS, Statistics",15.0,21.0
+08f1d9ff-438b-4cdb-8833-ca0a6d2374ca,Python Developer,Dara-Jha,hyderabad,2025-12-24,Not Disclosed,"Azure, React, Machine Learning, Excel, SQL, Snowflake",,
+5332f65f-89c3-4b0e-af28-0319d5e70f5a,Data Engineer,Date LLC,hyderabad,2026-01-05,₹3-13 LPA,"Excel, Python, Snowflake, AWS, Spark",3.0,13.0
+256fe287-1926-4433-811c-31fdf717e517,Data Scientist,"Mody, Swamy and Sridhar",bangalore,2026-01-14,₹3-12 LPA,"Azure, AWS, React",3.0,12.0
+092c86d5-9688-48bc-afa9-879b16653630,Python Developer,Bhatia-Sankar,noida,2026-01-08,Not Disclosed,"SQL, Excel, Tableau, React, Azure, Snowflake",,
+742f60eb-b7e8-4034-8389-e791b7a5e694,Machine Learning Engineer,"Narain, Das and Kala",mumbai,2026-01-19,₹10-20 LPA,"Python, Excel, Azure",10.0,20.0
+5c5cd725-e124-4e67-bc33-7f9dfc1ce47c,Senior Data Analyst,"Saraf, Sane and Srinivasan",pune,2025-12-26,₹13-19 LPA,"PowerBI, Spark, SQL, Python, Java",13.0,19.0
+caf439a2-b804-4446-ae03-2e8495525bef,Data Engineer,"Bora, Chaudhary and Murty",hyderabad,2025-12-23,₹11-14 LPA,"Java, Excel, React, AWS, Snowflake, Spark",11.0,14.0
+d04f58dc-18dd-44b6-ac73-090a33f376e5,Data Analyst,Manda Inc,gurgaon,2025-12-23,₹4-9 LPA,"Azure, Machine Learning, Hadoop, Statistics, Snowflake",4.0,9.0
+4f9ceed9-60e4-4783-ae8e-ffedda1c7b45,Junior Data Analyst,"Lala, Krishnan and Prabhakar",noida,2025-12-29,₹11-14 LPA,"AWS, React, Azure, Java",11.0,14.0
+38e7060a-133b-40df-96ff-430f50f97f13,Junior Data Analyst,"Patil, Vaidya and Ramakrishnan",gurgaon,2026-01-12,Not Disclosed,"Machine Learning, PowerBI, Statistics",,
+daf8e4be-0d55-4993-b519-5dc60d222eef,Data Scientist,Toor-Sengupta,gurgaon,2026-01-01,Not Disclosed,"Azure, SQL, Excel, Java, PowerBI",,
+492b4741-8f5f-48b2-beee-4555c9859f75,Business Analyst,Bali Inc,mumbai,2026-01-13,₹5-13 LPA,"Tableau, Hadoop, SQL, Excel",5.0,13.0
+2ab77077-8d13-4b10-9263-1a835321646c,Data Scientist,"Minhas, Sampath and Rattan",chennai,2026-01-10,₹14-21 LPA,"SQL, Hadoop, Machine Learning, Java",14.0,21.0
+f42b1fce-2e18-418e-9bed-a333263fbf4a,Senior Data Analyst,Shere Ltd,remote,2026-01-04,₹9-19 LPA,"Spark, Statistics, Snowflake, Tableau, Excel",9.0,19.0
+6e940b5e-a17d-4792-9283-7a6a25455f44,Junior Data Analyst,Tiwari Inc,bangalore,2025-12-31,₹13-17 LPA,"Snowflake, Tableau, AWS, Java, Python",13.0,17.0
+f19d37af-69d2-476c-9564-6150ebc710cf,Machine Learning Engineer,"Samra, Chander and Bhatia",bangalore,2026-01-13,₹12-22 LPA,"Snowflake, Statistics, Spark, Java, PowerBI, SQL",12.0,22.0
+595f219c-8e48-4114-b262-138ffde4d5fd,Machine Learning Engineer,Srivastava PLC,bangalore,2026-01-06,₹3-7 LPA,"Excel, Tableau, Python, AWS, PowerBI, Machine Learning",3.0,7.0
+68a482a0-03ff-4296-b6a1-12b437b4f7d7,Junior Data Analyst,"Mittal, Apte and Rege",remote,2025-12-31,₹9-14 LPA,"Java, AWS, PowerBI, Machine Learning",9.0,14.0
+744b0a1b-b10c-4f66-b1fd-0260c1cf7a67,Senior Data Analyst,Sekhon PLC,hyderabad,2025-12-29,₹3-10 LPA,"Azure, Excel, Java, PowerBI",3.0,10.0
+5449881b-22f9-4208-b1eb-296a9a49c386,Junior Data Analyst,Swaminathan-Naik,pune,2025-12-25,₹10-16 LPA,"PowerBI, Azure, Tableau, SQL, Excel",10.0,16.0
+a3359997-e62a-47e5-8a03-53a3074ea7db,Python Developer,"Kata, Mukhopadhyay and Sahni",chennai,2026-01-05,₹9-11 LPA,"Hadoop, Spark, PowerBI, Java, Tableau, AWS",9.0,11.0
+932d043a-b808-4e44-bdc9-597b33e0448c,Senior Data Analyst,"Sarma, Dora and Manne",hyderabad,2026-01-03,₹8-18 LPA,"Excel, AWS, Java, SQL, Python, PowerBI",8.0,18.0
+ff99bf79-53e0-4230-a272-92561b272297,Senior Data Analyst,Bhardwaj-Sehgal,delhi,2026-01-07,₹5-10 LPA,"Tableau, Hadoop, PowerBI, Statistics, Azure, SQL",5.0,10.0
+92eefd21-1679-4706-8643-1436e82dbb08,Python Developer,"Soman, Shroff and Hora",remote,2026-01-06,₹5-13 LPA,"AWS, PowerBI, React, Azure",5.0,13.0
+5a5867a3-5773-4293-849c-d3a78dc4d5b8,Data Engineer,Murty-Kalita,gurgaon,2026-01-12,₹11-13 LPA,"Machine Learning, AWS, Excel",11.0,13.0
+1710d196-fd52-4ed6-b6d0-1f048d561ed7,Data Analyst,Parikh LLC,noida,2025-12-27,₹8-16 LPA,"Python, Java, React, Hadoop, Azure",8.0,16.0
+949712fd-5f22-4f43-ad30-10a49818e38c,Junior Data Analyst,Badami-Gulati,noida,2026-01-11,Not Disclosed,"React, Tableau, Spark",,
+b3f2ad41-5775-48fd-a454-2e870afa5b18,Data Scientist,"Dugar, Talwar and Lall",remote,2026-01-07,₹4-9 LPA,"SQL, React, Statistics",4.0,9.0
+fc415c64-f0ec-4ee3-a8c4-a67bc54f240a,Junior Data Analyst,Bhargava Group,chennai,2026-01-17,₹12-19 LPA,"Python, Machine Learning, Snowflake",12.0,19.0
+36f50869-f99f-46bb-a829-852625d4c9aa,Data Analyst,Jhaveri-Nagarajan,remote,2026-01-10,₹3-8 LPA,"Spark, Excel, AWS, SQL, PowerBI",3.0,8.0
+8570dde4-05ce-493a-8e38-9bfb0978ab45,Senior Data Analyst,"Kulkarni, Butala and Upadhyay",remote,2026-01-02,₹6-16 LPA,"Python, Snowflake, AWS, React",6.0,16.0
+c7cbc851-e273-4ef5-af43-8265f93bd5ed,Data Analyst,Shanker-Khare,hyderabad,2026-01-07,₹10-12 LPA,"SQL, AWS, Java, Tableau",10.0,12.0
+1c266982-5bba-4172-ae8c-020e509854d1,Machine Learning Engineer,Mani LLC,remote,2026-01-01,Not Disclosed,"Statistics, Machine Learning, Java",,
+21e69e09-04a4-44a5-bf76-24877d8926c4,Data Scientist,Tak LLC,gurgaon,2025-12-25,₹11-17 LPA,"Machine Learning, Excel, Python, Azure, Java, Spark",11.0,17.0
+6e310d32-77f4-4811-ba1f-74e66ef7a97d,Data Scientist,Badami-Sawhney,noida,2026-01-11,Not Disclosed,"Python, AWS, SQL, Java, Spark",,
+bf052e70-7eab-4812-a2bd-e940e002aed0,Machine Learning Engineer,"Puri, Dayal and Chaudhari",chennai,2026-01-04,₹6-10 LPA,"Statistics, Tableau, SQL, PowerBI",6.0,10.0
+5c7d066a-b167-44f9-b04f-57e2f86afd04,Senior Data Analyst,Keer-Taneja,bangalore,2026-01-06,Not Disclosed,"Snowflake, Tableau, Machine Learning, Python",,
+48eb0736-175b-4799-9374-1ae1ca3cf6ed,Python Developer,Palla Group,chennai,2026-01-09,₹5-13 LPA,"Spark, Machine Learning, Hadoop, Python",5.0,13.0
+0d37d2af-757c-4993-931a-9f69f1c79673,Junior Data Analyst,Aggarwal-Khurana,mumbai,2025-12-30,Not Disclosed,"React, Tableau, Machine Learning, Java, Excel",,
+c848773b-07f4-405d-919e-48bb234efceb,Machine Learning Engineer,Seshadri PLC,gurgaon,2025-12-31,₹14-21 LPA,"Excel, Python, SQL",14.0,21.0
+684b0465-76e8-440c-9213-f389fcdd0ab9,Junior Data Analyst,Dhingra-Bal,bangalore,2026-01-12,₹11-16 LPA,"Tableau, Machine Learning, PowerBI",11.0,16.0
+118b10fb-260f-43e8-9732-8d51433c93b9,Machine Learning Engineer,Nath-Guha,pune,2026-01-04,₹14-23 LPA,"React, Hadoop, AWS, Java, Spark",14.0,23.0
+9d213e0e-7149-455d-8d55-7c9de5fef8f4,Senior Data Analyst,Cherian-Sahota,pune,2026-01-12,₹4-11 LPA,"PowerBI, Hadoop, SQL, Excel",4.0,11.0
+fd4ef0a6-bc7a-4b2f-954c-f173a6fe7643,Senior Data Analyst,"Khatri, Sahota and Goyal",remote,2026-01-05,₹7-13 LPA,"Spark, Statistics, Tableau",7.0,13.0
+cbc2471a-6c25-4672-98ad-48fb45fbbad2,Data Engineer,Patla and Sons,remote,2026-01-08,Not Disclosed,"Tableau, Python, Java, SQL, Snowflake",,
+618f509b-2da5-4008-9b73-c4b42ed80c4e,Junior Data Analyst,Chad Ltd,pune,2025-12-22,₹9-17 LPA,"Spark, SQL, Java",9.0,17.0
+6643f8cb-7bbb-4f82-8e59-558450f05e54,Data Scientist,"Kapur, Ahluwalia and Dara",mumbai,2026-01-06,Not Disclosed,"Azure, Excel, Java, Spark, React",,
+8fa4bf72-c613-4529-9030-b0fa4857ca05,Data Scientist,"Ranganathan, Prakash and Tella",pune,2025-12-29,₹12-19 LPA,"Statistics, Machine Learning, Snowflake, PowerBI, Tableau, Azure",12.0,19.0
+72a3e13e-d28b-421a-9bd4-d931b4d01a43,Data Engineer,Chadha-Mangal,delhi,2026-01-18,₹7-13 LPA,"SQL, Hadoop, Machine Learning",7.0,13.0
+9651bf05-fa24-43c8-917a-a2c4348a27a7,Business Analyst,Jha Inc,chennai,2026-01-09,₹8-10 LPA,"Java, SQL, React, Statistics, Azure",8.0,10.0
+5629d397-6f5f-4b39-84fe-943dc63f0fd9,Data Analyst,Chaudhuri-Issac,chennai,2026-01-10,Not Disclosed,"Java, Snowflake, React, Excel",,
+968f6914-02e9-49ae-b21d-64c2cf2fb31b,Data Scientist,Chana-Deshpande,remote,2026-01-16,₹10-17 LPA,"Azure, Python, SQL",10.0,17.0
+ef91c50e-2013-43a5-905e-135c6f846699,Machine Learning Engineer,Krishna LLC,gurgaon,2025-12-26,Not Disclosed,"Machine Learning, Snowflake, Excel, AWS, Azure",,
+188dcfd9-16a9-4295-936c-442bcd4f0df9,Python Developer,"Kumer, Butala and Das",hyderabad,2026-01-08,₹7-13 LPA,"Java, Hadoop, AWS, Excel",7.0,13.0
+72d5230f-996c-4d15-b233-ed2855003355,Machine Learning Engineer,Deep Group,mumbai,2026-01-19,Not Disclosed,"SQL, Excel, Python, Tableau",,
+ef82a1ea-0c64-4b8a-b125-63927b6556bc,Junior Data Analyst,"Mital, Viswanathan and Kapoor",remote,2026-01-02,₹8-17 LPA,"Hadoop, AWS, SQL",8.0,17.0
+a82bce76-d0b1-47c7-81f8-8418da247166,Business Analyst,Dar PLC,mumbai,2025-12-24,Not Disclosed,"Machine Learning, Python, Spark",,
+fa0fabb2-7904-4cc4-8f17-33e536249aec,Business Analyst,Bandi-Chaudry,remote,2026-01-13,₹7-12 LPA,"PowerBI, Hadoop, Snowflake, Statistics",7.0,12.0
+77b0b32d-156e-448a-a8d2-a022119c881a,Junior Data Analyst,"Pau, Gandhi and Bera",pune,2026-01-07,Not Disclosed,"AWS, Tableau, Excel",,
+a16ff8a3-afda-4c4f-9582-12727a6cb879,Machine Learning Engineer,Pingle-Memon,pune,2026-01-02,₹6-14 LPA,"SQL, Hadoop, AWS, PowerBI",6.0,14.0
+e30ed84f-f663-45d7-ad1e-f17ba1e57a96,Data Analyst,Nadig and Sons,remote,2026-01-18,₹7-9 LPA,"Machine Learning, Snowflake, Hadoop, Java, Statistics, Spark",7.0,9.0
+af0937ae-4394-45e1-aff9-dc4a5d1e0dd3,Junior Data Analyst,Dutt-Chawla,pune,2025-12-21,₹10-20 LPA,"React, AWS, Spark, Statistics, PowerBI",10.0,20.0
+624a9a91-0813-4683-be33-dc448eb59cc0,Business Analyst,"Bhatt, Rajagopal and Bedi",pune,2026-01-19,₹10-16 LPA,"PowerBI, Excel, Machine Learning",10.0,16.0
+a4cbade4-84c0-4285-9b75-bce2a5046299,Python Developer,Pal-Pai,remote,2026-01-18,₹11-20 LPA,"Snowflake, PowerBI, Excel",11.0,20.0
+4785a20b-e371-4d06-95af-f41fb951183e,Data Scientist,Deshmukh-Rajagopal,remote,2026-01-06,₹6-13 LPA,"Excel, Azure, Statistics, Tableau, PowerBI",6.0,13.0
+565f26cd-4b02-45ca-b5a4-2bde7031415b,Junior Data Analyst,Edwin-Prasad,noida,2025-12-23,₹6-12 LPA,"Java, Excel, PowerBI, Tableau, React",6.0,12.0
+125fcb26-e796-4570-8172-662700dd89c0,Senior Data Analyst,Parekh Group,bangalore,2026-01-10,₹13-20 LPA,"Tableau, SQL, Excel, Statistics, PowerBI",13.0,20.0
+e21c5c71-7b5a-4b73-b0d0-e4acf9e867cf,Junior Data Analyst,Lad-Randhawa,bangalore,2025-12-25,Not Disclosed,"SQL, PowerBI, Spark",,
+1e5c0e39-a159-42f9-8609-4648cb506c99,Python Developer,"Sachdev, Atwal and Ravel",chennai,2026-01-05,₹11-19 LPA,"Spark, PowerBI, Azure, React, Statistics, Python",11.0,19.0
+4da42a3b-1f00-43dd-852c-78e0fb464961,Business Analyst,Mukherjee-Panchal,noida,2026-01-17,₹8-10 LPA,"Java, Statistics, Hadoop, Tableau",8.0,10.0
+c7e2a603-32ab-4e85-a6f8-4507679e3db6,Senior Data Analyst,"Konda, Mahajan and Mody",mumbai,2026-01-13,₹3-9 LPA,"SQL, AWS, Excel, React",3.0,9.0
+1710fe20-f25d-47b4-a370-a8dd4076d6d1,Data Engineer,Nair and Sons,hyderabad,2026-01-14,₹3-9 LPA,"Statistics, SQL, Azure, AWS",3.0,9.0
+0c27ecf4-5ee0-45cc-8a9f-320d1a7c55fa,Business Analyst,Kulkarni-Chaudhari,bangalore,2025-12-24,₹5-10 LPA,"Python, Machine Learning, PowerBI",5.0,10.0
+e064ef5e-d349-4509-9d82-b385f7d2d8a5,Junior Data Analyst,Puri-Dass,chennai,2026-01-01,Not Disclosed,"Python, Tableau, Spark, React, Statistics, AWS",,
+51bfcdc3-7662-4ed2-abb3-1e96e45156e3,Senior Data Analyst,Suri and Sons,hyderabad,2026-01-08,₹12-19 LPA,"Excel, Python, Java, Statistics, PowerBI",12.0,19.0
+70d7b735-3cc9-436d-a708-4e4b88588b19,Data Engineer,Walia Inc,gurgaon,2025-12-24,₹11-14 LPA,"Python, Statistics, Azure, Hadoop",11.0,14.0
+315871da-f4b1-4f29-8c7a-176d5ab51092,Business Analyst,Jani-Kulkarni,mumbai,2025-12-25,₹14-18 LPA,"Azure, Excel, Statistics, React",14.0,18.0
+6204a18a-5689-45b1-93df-dfa9dd9868be,Junior Data Analyst,Choudhry-Grover,noida,2025-12-28,₹10-14 LPA,"Python, Snowflake, Statistics, SQL, AWS",10.0,14.0
+f2fc2acf-b198-4046-9f6e-c3c8f150157f,Data Engineer,"Nadkarni, Hayer and Din",bangalore,2025-12-31,Not Disclosed,"Tableau, Spark, Machine Learning, Java, Hadoop, Python",,
+d9b4c1cb-b333-471f-9591-5bdf9c796f85,Machine Learning Engineer,"Toor, Narang and Shankar",bangalore,2025-12-26,₹7-9 LPA,"Excel, Spark, PowerBI",7.0,9.0
+7628a1fe-ce83-487f-9081-06b054c99935,Senior Data Analyst,Parmar-Mand,noida,2026-01-16,₹5-13 LPA,"Azure, Machine Learning, React, AWS",5.0,13.0
+ff29347c-4931-4bd6-b819-9301121897ba,Data Analyst,Bhandari-Rajan,noida,2026-01-10,₹11-14 LPA,"Azure, Statistics, AWS, React",11.0,14.0
+12d591b8-07b9-4928-aa68-112c38c9ffc2,Data Scientist,Thaman-Saran,noida,2025-12-23,₹7-9 LPA,"Tableau, Java, AWS",7.0,9.0
+24493d2e-bd12-4aa0-9330-b7e60146f159,Senior Data Analyst,Sathe-Radhakrishnan,remote,2026-01-04,₹12-16 LPA,"Snowflake, Statistics, Azure",12.0,16.0
+1c0b2fc5-2f60-4ff5-b0c8-f46ef93742f1,Business Analyst,"Hari, Palla and Anne",chennai,2025-12-25,₹10-20 LPA,"Statistics, Hadoop, Python, Machine Learning",10.0,20.0
+379958e9-b4e0-4e23-8352-335d8c64fba8,Senior Data Analyst,Lall PLC,hyderabad,2025-12-29,₹12-20 LPA,"PowerBI, Excel, Python, AWS, React, Spark",12.0,20.0
+aa6f4590-dbe9-42aa-9611-fe16a5edd2ae,Data Analyst,"Dash, Balasubramanian and Oza",bangalore,2025-12-26,₹6-15 LPA,"Tableau, Excel, Machine Learning, AWS",6.0,15.0
+fa30d0a4-02ed-434a-9b21-099627cf9e5c,Data Analyst,Sami Group,bangalore,2026-01-11,Not Disclosed,"Azure, Machine Learning, SQL, Excel, AWS, Hadoop",,
+597e6c26-f8eb-4ccc-9dd2-c7bd72f51614,Data Engineer,Mander-Chakraborty,delhi,2026-01-17,₹15-24 LPA,"PowerBI, Machine Learning, Excel",15.0,24.0
+9067cb35-61e9-46ea-9c53-4f6498f7b253,Data Analyst,Saraf-Tiwari,bangalore,2026-01-17,₹7-11 LPA,"Spark, Machine Learning, Tableau, SQL, PowerBI",7.0,11.0
+d50d3325-2e8c-4a56-a4ac-7f1cce8f2fed,Senior Data Analyst,Bali Inc,noida,2026-01-06,Not Disclosed,"Spark, Statistics, Machine Learning, SQL, Excel, Hadoop",,
+9e3d33ec-8fed-464f-8872-c78d9daa8197,Data Engineer,"Khatri, Prakash and Khosla",remote,2026-01-13,₹5-11 LPA,"Tableau, Python, Excel, SQL",5.0,11.0
+74e5d034-2120-46f8-aed0-b7cedf755e40,Data Analyst,Andra Group,remote,2026-01-18,₹11-16 LPA,"PowerBI, React, Machine Learning",11.0,16.0
+6a97a0a0-782a-4e44-ac3a-ae0459974fb6,Business Analyst,"Chakraborty, Bhandari and D’Alia",chennai,2025-12-30,₹5-7 LPA,"PowerBI, Python, Azure, Tableau, SQL",5.0,7.0
+79efd338-bfcc-4183-a4dd-7d51c0053f37,Senior Data Analyst,"Walia, Aurora and Dar",gurgaon,2026-01-18,₹5-7 LPA,"Statistics, Machine Learning, AWS, Python",5.0,7.0
+ba7073ef-ae57-4cba-8918-53d3932604dd,Junior Data Analyst,Kota Ltd,hyderabad,2025-12-21,₹8-16 LPA,"SQL, Snowflake, AWS, Python, Tableau",8.0,16.0
+dc6a610a-bed6-41fa-8ca8-46adae6a8284,Junior Data Analyst,Merchant Group,remote,2026-01-02,₹12-17 LPA,"Spark, SQL, Hadoop",12.0,17.0
+73a98c2a-0be4-44de-b459-90169e4d4526,Business Analyst,Mutti Group,bangalore,2026-01-02,₹10-19 LPA,"Java, Excel, Hadoop, AWS",10.0,19.0
+2e8db9bb-948c-4958-a8bf-e9c88f3b5b29,Python Developer,Butala-Mallick,bangalore,2025-12-22,₹4-7 LPA,"SQL, React, Tableau, AWS, Excel, Hadoop",4.0,7.0
+33b71b77-6867-411c-9b4e-6ed076c5b844,Data Analyst,"Trivedi, Anne and Kanda",noida,2026-01-04,Not Disclosed,"Statistics, Java, Spark, AWS",,
+8b77e499-41db-4cbc-93d0-58ecbd8f2dd8,Python Developer,"Rana, Dewan and Grewal",remote,2025-12-29,₹15-22 LPA,"Excel, Spark, Python",15.0,22.0
+748de4e5-07a9-4976-b840-57f6daef943e,Junior Data Analyst,Krishna Inc,delhi,2025-12-30,₹15-22 LPA,"AWS, Snowflake, Tableau, Statistics, PowerBI",15.0,22.0
+8556aa45-048b-445a-b0ad-224ef7488c8b,Junior Data Analyst,Samra PLC,hyderabad,2026-01-12,₹14-23 LPA,"Snowflake, SQL, AWS, PowerBI",14.0,23.0
+e5f04fa6-dbd0-4381-b314-374d720901da,Data Engineer,Choudhry Inc,remote,2025-12-27,₹6-10 LPA,"PowerBI, Azure, Spark",6.0,10.0
+6f63b6d2-b8d5-469d-82b7-c12c7d1433e6,Business Analyst,Kale-Malhotra,chennai,2025-12-31,₹11-13 LPA,"Java, PowerBI, Snowflake",11.0,13.0
+507d3f0c-1bf3-4f0a-8047-674765f05668,Machine Learning Engineer,"Chahal, Dora and Dutta",gurgaon,2026-01-13,₹9-13 LPA,"Spark, Tableau, React, Azure",9.0,13.0
+bf59a806-4068-497a-961b-90553d8b55e0,Data Engineer,Peri-Kota,bangalore,2026-01-01,Not Disclosed,"Snowflake, Java, Spark",,
+a458e703-9561-47ae-8db9-3fbf31bf6bb0,Data Analyst,Wagle-Raval,hyderabad,2025-12-25,₹6-15 LPA,"Java, Azure, PowerBI, Python, Machine Learning, Hadoop",6.0,15.0
+f67690ac-27ac-44ff-951b-b619356f74fc,Data Engineer,Saini-Venkatesh,pune,2026-01-09,₹9-11 LPA,"Excel, Snowflake, Azure, PowerBI, Statistics, Java",9.0,11.0
+d35ec65f-30b4-43d5-aedb-fe8ad66847bd,Business Analyst,"Mallick, Palla and Gandhi",bangalore,2026-01-15,₹5-13 LPA,"Hadoop, AWS, Statistics",5.0,13.0
+0a7858c8-9bcc-4949-bf0c-6ee7b2f00b11,Junior Data Analyst,"Jhaveri, Jaggi and Bhatti",gurgaon,2025-12-26,₹8-16 LPA,"Azure, Hadoop, SQL, Statistics, Tableau, Machine Learning",8.0,16.0
+0edc9d30-4738-4b4b-8ad1-9d92fe1af06b,Data Scientist,"Mishra, Gour and Cheema",bangalore,2026-01-17,₹4-12 LPA,"React, Azure, Spark, Excel",4.0,12.0
+34d2624d-492f-40bd-b898-d86efde9229f,Data Scientist,Morar-Dua,gurgaon,2026-01-06,₹8-18 LPA,"Java, Python, Spark, Snowflake",8.0,18.0
+ff0c84e1-501b-4764-ab4f-a4306d02feea,Business Analyst,"Wadhwa, Ratta and Subramanian",bangalore,2026-01-10,Not Disclosed,"Excel, Hadoop, Tableau",,
+eb6bad85-4c4a-4de9-b95d-06abe614fee7,Junior Data Analyst,"Arya, Lal and Murty",noida,2026-01-15,₹3-7 LPA,"AWS, Machine Learning, Azure",3.0,7.0
+dd81b2d7-6858-46c4-a97f-86bbf3849994,Business Analyst,"Agrawal, Murthy and Prakash",chennai,2026-01-11,₹6-16 LPA,"Snowflake, Statistics, Hadoop",6.0,16.0
+e1524ffa-8b26-47c5-a993-f804f893df53,Data Analyst,Joshi Group,delhi,2026-01-15,₹13-21 LPA,"Java, Excel, Machine Learning, Spark, Azure",13.0,21.0
+9d0af0f8-3d0f-40fa-9c18-8ae185cfdbd0,Data Engineer,Raja Group,mumbai,2025-12-23,Not Disclosed,"AWS, Tableau, Java, Statistics, Azure",,
+5a0df2df-1f48-4c37-888d-df4e86c1841f,Data Analyst,Pall PLC,gurgaon,2026-01-10,Not Disclosed,"AWS, Snowflake, Excel, PowerBI, Azure",,
+0ba8ac8e-ca18-4d29-819b-5bb749122eef,Data Analyst,Jani PLC,mumbai,2026-01-05,Not Disclosed,"Tableau, Azure, Statistics, Python, Excel",,
+4b2e90df-72dd-4958-ad88-e08c4afb2d43,Python Developer,"Puri, Bose and Kurian",hyderabad,2026-01-09,₹4-6 LPA,"Statistics, Hadoop, Azure, SQL, Java, Snowflake",4.0,6.0
+bd51c00d-ef56-406b-9ce9-c7a1db735f1f,Business Analyst,Devan-Srinivas,remote,2026-01-01,₹12-21 LPA,"Snowflake, AWS, React, Excel",12.0,21.0
+bbd1bb8b-7763-486e-948b-9517bf805476,Python Developer,Hayre-Lanka,hyderabad,2026-01-03,₹14-24 LPA,"Java, Machine Learning, Excel, Snowflake",14.0,24.0
+017faf3e-8bc9-46ca-b5d4-0735a8e1a7b3,Junior Data Analyst,Pillay Group,delhi,2026-01-05,₹13-17 LPA,"SQL, Python, Java, React, PowerBI",13.0,17.0
+77a81eea-e16b-4549-9b83-4a840f0eb1a6,Data Scientist,Wali-Shetty,mumbai,2026-01-01,Not Disclosed,"React, Statistics, Excel, SQL, PowerBI, Hadoop",,
+ecd084c7-989f-40c0-a0e1-30d188fea94d,Data Engineer,Bhat-Chand,bangalore,2026-01-15,₹5-15 LPA,"Java, Machine Learning, PowerBI, Excel, AWS, Python",5.0,15.0
+f82919de-eaf8-4160-bff2-12cfc5f2ed1b,Data Analyst,"Pai, Narasimhan and Dara",bangalore,2026-01-04,₹15-25 LPA,"Spark, Excel, Java",15.0,25.0
+4ef9cbb5-8a89-40fe-ab48-5cb07384e56d,Senior Data Analyst,"Mitter, Bhalla and Taneja",noida,2025-12-21,₹5-12 LPA,"Snowflake, Python, PowerBI",5.0,12.0
+d2c33907-4374-4d21-b8fc-e49f16a0a4ff,Python Developer,Sachdeva Inc,bangalore,2026-01-17,₹15-25 LPA,"SQL, Azure, Python, AWS, Java",15.0,25.0
+5223e296-7e26-462b-8690-ed7ab07f42c9,Python Developer,"Chaudhary, Bhatnagar and Randhawa",noida,2025-12-29,₹10-14 LPA,"Python, Azure, AWS",10.0,14.0
+6219544c-fa2b-4244-9bff-1ab1ffde8464,Python Developer,Subramanian Ltd,delhi,2025-12-30,₹9-17 LPA,"Python, AWS, Spark, SQL, Java",9.0,17.0
+5f60f1be-949e-427c-ab8c-155378c270f9,Business Analyst,Varma Group,mumbai,2025-12-31,₹5-13 LPA,"Excel, Machine Learning, Python, Snowflake, React, SQL",5.0,13.0
+3c910257-0881-467f-a999-b0cc69fe8bd0,Data Analyst,Varkey-Dey,chennai,2026-01-12,₹11-16 LPA,"Python, Java, Spark, PowerBI",11.0,16.0
+ce3c96e7-1403-452b-adac-a4f2b9a10d76,Junior Data Analyst,Kala-Yogi,gurgaon,2026-01-19,₹9-19 LPA,"AWS, Tableau, Machine Learning, Azure",9.0,19.0
+3b2c1cb9-258a-48d3-a8ad-14d2a0db3bd3,Junior Data Analyst,"Joshi, Kapur and Nayak",mumbai,2026-01-14,₹15-20 LPA,"Statistics, Snowflake, React, Tableau, Hadoop",15.0,20.0
+7abab6cd-7dcf-4263-8efe-42638839889a,Business Analyst,"Shanker, Murthy and Anand",pune,2026-01-13,₹12-18 LPA,"Hadoop, Java, Snowflake, Python, AWS, Excel",12.0,18.0
+89f0873d-d8ec-4b18-94ba-d0c7e38f12d9,Python Developer,"Varghese, Sen and Choudhary",bangalore,2026-01-13,₹13-23 LPA,"Java, PowerBI, Spark, React",13.0,23.0
+225974ea-7398-4ebc-96c4-1d44e9af4430,Junior Data Analyst,Balay-Mann,chennai,2026-01-10,₹10-12 LPA,"Machine Learning, Excel, Azure, Tableau, Statistics",10.0,12.0

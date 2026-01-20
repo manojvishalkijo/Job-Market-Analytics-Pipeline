@@ -1,0 +1,23 @@
+# Repository Name & Description
+
+## Project Name Options
+1.  **TechTalent-Intelligence-ETL**
+2.  **Job-Market-Analytics-Pipeline**
+3.  **Python-SQL-PowerBI-Portfolio-Project**
+
+## Repository Description (approx. 350 words)
+
+**Tech Talent Market Intelligence: End-to-End ETL Pipeline & Analytics**
+
+This project serves as a comprehensive demonstration of Data Engineering and Data Analysis core competencies, specifically designed to showcase a complete ETL (Extract, Transform, Load) workflow using Python, SQL, and Power BI. It simulates a real-world scenario where raw, unstructured job market data is processed into actionable intelligence.
+
+**Project Overview**
+The core of this repository is a robust Python pipeline that orchestrates the entire lifecycle of data processing. Instead of relying on static datasets, this project implements a dynamic **Data Extraction** phase using the `Faker` library to generate realistic, high-volume mock data (500+ records) representing Indian job postings. This includes complex fields such as inconsistent salary ranges (e.g., "₹10-15 LPA", "Not Disclosed") and messy location strings, mimicking the challenges found in real web-scraped data.
+
+**Technical Implementation**
+1.  **Transform & Clean (Pandas)**: The raw data undergoes rigorous cleaning. Custom functions parse string-based salary ranges into analyzable numeric values (`min_salary`, `max_salary`), standardize geographical data (e.g., merging "Bengaluru" and "Bangalore"), and normalize skill sets for granular analysis.
+2.  **Load (SQLite)**: The transformed data is structured and loaded into a normalized SQLite database (`jobs_market.db`). This demonstrates proficiency in database management and schema design, ensuring data integrity and accessibility.
+3.  **Analyze (SQL)**: The project includes embedded SQL queries to extract key business insights directly from the database, such as identifying top in-demand skills, calculating average salary bands for specific roles, and analyzing geographical hiring hotspots.
+
+**Visualization & Business Value**
+The final output is a polished CSV dataset optimized for Business Intelligence tools. The repository includes a detailed guide for integrating this data into **Power BI**, enabling the creation of interactive dashboards that visualize trends in the tech talent market. This project not only highlights technical coding skills in Python and SQL but also demonstrates the ability to deliver end-to-end business intelligence solutions, from raw data generation to final visual storytelling.
